@@ -1,18 +1,18 @@
 {
   "site_settings": {
-    "sitemap_enabled": true,
-    "sitemap_include_leagues": true,
+    "sitemap_enabled": false,
+    "sitemap_include_leagues": false,
     "sitemap_static_pages": "about, contact, privacy, terms, copyright-policy",
-    "sitemap_lastmod_manual": "2026-02-07",
-    "ga4_id": "G-CNHF08NBNZ",
+    "sitemap_lastmod_manual": "2026-02-28",
+    "ga4_id": "G-5W3EW8MMNG",
     "title_part_1": "Stream",
     "title_part_2": "East",
     "custom_js": "",
     "custom_meta_tags": [
       "<meta name=\"google-site-verification\" content=\"C7MbhV3eAjVUwCdk-U2bVA3Vnwq7JPi7szIM3Q_wg2A\" />"
     ],
-    "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://totalsportek.top/sitemap.xml",
-    "domain": "streameastlive.cc",
+    "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://dofunstreams.cfd/sitemap.xml",
+    "domain": "dofunstreams.cfd",
     "logo_url": "/assets/streameast-logo.webp",
     "favicon_url": "/assets/streameast.png",
     "footer_copyright": "© 2026 StreamEast — Live sports streaming platform for major leagues and global tournaments in HD.",
