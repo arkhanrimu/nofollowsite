@@ -1191,7 +1191,13 @@
         "CharlEastown Azzurri": "assets/logos/upstreams/charleastown-azzurri.webp",
         "Newcastle Olympic": "assets/logos/upstreams/newcastle-olympic.webp",
         "Olympic FC": "assets/logos/upstreams/olympic-fc.webp",
-        "Wynnum Wolves": "assets/logos/upstreams/wynnum-wolves.webp"
+        "Wynnum Wolves": "assets/logos/upstreams/wynnum-wolves.webp",
+        "New Mexico": "assets/logos/streamed/new-mexico.webp",
+        "San Diego State": "assets/logos/streamed/san-diego-state.webp",
+        "Cincinnati": "assets/logos/streamed/cincinnati.webp",
+        "Oklahoma State": "assets/logos/streamed/oklahoma-state.webp",
+        "Miami": "assets/logos/streamed/miami.webp",
+        "Boston College": "assets/logos/streamed/boston-college.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
