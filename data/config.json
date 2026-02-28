@@ -128,7 +128,7 @@
     "back_to_top_icon_color": "#ffffff",
     "back_to_top_radius": "50px",
     "back_to_top_size": "40",
-    "display_hero": "block",
+    "display_hero": "none",
     "social_telegram_color": "#0088cc",
     "social_whatsapp_color": "#25d366",
     "social_reddit_color": "#ff4500",
@@ -581,16 +581,6 @@
         "title": "Schedule",
         "url": "/#schedule",
         "highlight": true
-      },
-      {
-        "title": "Features",
-        "url": "/#features",
-        "highlight": false
-      },
-      {
-        "title": "FAQs",
-        "url": "/#faqs",
-        "highlight": false
       },
       {
         "title": "Who We Are",
