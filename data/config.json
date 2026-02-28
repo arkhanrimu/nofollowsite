@@ -298,8 +298,8 @@
       },
       "Africa Cup of Nations": {
         "score": 86,
-        "isLeague": false,
-        "hasLink": false,
+        "isLeague": true,
+        "hasLink": true,
         "isHidden": false
       },
       "La Liga": {
@@ -317,43 +317,43 @@
       "Football": {
         "score": 79,
         "isLeague": false,
-        "hasLink": false,
+        "hasLink": true,
         "isHidden": false
       },
       "Basketball": {
         "score": 78,
         "isLeague": false,
-        "hasLink": false,
+        "hasLink": true,
         "isHidden": false
       },
       "Baseball": {
         "score": 77,
         "isLeague": false,
-        "hasLink": false,
+        "hasLink": true,
         "isHidden": false
       },
       "Fighting": {
         "score": 76,
         "isLeague": false,
-        "hasLink": false,
+        "hasLink": true,
         "isHidden": false
       },
       "Soccer": {
         "score": 60,
         "isLeague": false,
-        "hasLink": false,
+        "hasLink": true,
         "isHidden": false
       },
       "Tennis": {
         "score": 40,
         "isLeague": false,
-        "hasLink": false,
+        "hasLink": true,
         "isHidden": false
       },
       "Golf": {
         "score": 30,
         "isLeague": false,
-        "hasLink": false,
+        "hasLink": true,
         "isHidden": false
       }
     },
