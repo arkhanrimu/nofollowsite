@@ -1208,7 +1208,21 @@
         "Texas Tech": "assets/logos/streamed/texas-tech.webp",
         "Washington": "assets/logos/streamed/washington.webp",
         "Wisconsin": "assets/logos/streamed/wisconsin.webp",
-        "Benetton Treviso": "assets/logos/upstreams/benetton-treviso.webp"
+        "Benetton Treviso": "assets/logos/upstreams/benetton-treviso.webp",
+        "Onze Createurs": "assets/logos/upstreams/onze-createurs.webp",
+        "FC Diarra": "assets/logos/upstreams/fc-diarra.webp",
+        "AD Fafe": "assets/logos/upstreams/ad-fafe.webp",
+        "AD Sanjoanense": "assets/logos/upstreams/ad-sanjoanense.webp",
+        "AD Marco 09": "assets/logos/upstreams/ad-marco-09.webp",
+        "SC S\u00e3o Jo\u00e3o Ver": "assets/logos/upstreams/sc-s\u00e3o-jo\u00e3o-ver.webp",
+        "SC Braga B": "assets/logos/upstreams/sc-braga-b.webp",
+        "USC Paredes": "assets/logos/upstreams/usc-paredes.webp",
+        "Abhinav Sanjeev Shanmugam": "assets/logos/upstreams/abhinav-sanjeev-shanmugam.webp",
+        "Grigoriy Lomakin": "assets/logos/upstreams/grigoriy-lomakin.webp",
+        "Aditya Vardhan Duddupudi": "assets/logos/upstreams/aditya-vardhan-duddupudi.webp",
+        "Raghav Jaisinghani": "assets/logos/upstreams/raghav-jaisinghani.webp",
+        "Daniil Bogatov": "assets/logos/upstreams/daniil-bogatov.webp",
+        "Abhishek Bastola": "assets/logos/upstreams/abhishek-bastola.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -1367,6 +1381,8 @@
         "ICC Men's T20 World Cup, Super 8, Group 2": "assets/logos/leagues/icc-mens-t20-world-cup-super-8-group-2.webp",
         "Asobal": "assets/logos/leagues/asobal.webp",
         "Welsh Open": "assets/logos/leagues/welsh-open.webp",
-        "Welsh Open 2026": "assets/logos/leagues/welsh-open-2026.webp"
+        "Welsh Open 2026": "assets/logos/leagues/welsh-open-2026.webp",
+        "Liga 3, Relegation Round, Group 1": "assets/logos/leagues/liga-3-relegation-round-group-1.webp",
+        "MLB Spring Training": "assets/logos/leagues/mlb-spring-training.webp"
     }
 }
