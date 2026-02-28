@@ -1,25 +1,23 @@
 {
   "site_settings": {
-    "sitemap_enabled": true,
-    "sitemap_include_leagues": true,
+    "sitemap_enabled": false,
+    "sitemap_include_leagues": false,
     "sitemap_static_pages": "about, contact, privacy, terms, copyright-policy",
-    "sitemap_lastmod_manual": "2026-02-07",
+    "sitemap_lastmod_manual": "2026-02-28",
     "ga4_id": "G-CNHF08NBNZ",
-    "title_part_1": "Stream",
-    "title_part_2": "East",
+    "title_part_1": "Dofu",
+    "title_part_2": "Streams",
     "custom_js": "",
-    "custom_meta_tags": [
-      "<meta name=\"google-site-verification\" content=\"C7MbhV3eAjVUwCdk-U2bVA3Vnwq7JPi7szIM3Q_wg2A\" />"
-    ],
+    "custom_meta_tags": [],
     "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://totalsportek.top/sitemap.xml",
-    "domain": "streameastlive.cc",
+    "domain": "dofunstreams.cfd",
     "logo_url": "/assets/streameast-logo.webp",
     "favicon_url": "/assets/streameast.png",
     "footer_copyright": "© 2026 StreamEast — Live sports streaming platform for major leagues and global tournaments in HD.",
     "footer_disclaimer": "",
     "target_country": "US",
-    "param_live": "streams",
-    "param_info": "livestream"
+    "param_live": "streaming",
+    "param_info": "schedule"
   },
   "theme": {
     "font_family_base": "system-ui, -apple-system, sans-serif",
@@ -1415,8 +1413,8 @@
     "back_to_top_shadow_color": "#000000"
   },
   "watch_settings": {
-    "supabase_url": "https://dyqrcabbnwpumsgoylao.supabase.co",
-    "supabase_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR5cXJjYWJibndwdW1zZ295bGFvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njc2OTYzMDksImV4cCI6MjA4MzI3MjMwOX0.W1zMjTuQ3ZatD6J2XLIb0rKWJGlMLuN-jrXU7mITMvg",
+    "supabase_url": "https://kqwgeporkyvkopqkuugq.supabase.co",
+    "supabase_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imtxd2dlcG9ya3l2a29wcWt1dWdxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzIyOTA2NzAsImV4cCI6MjA4Nzg2NjY3MH0.l3YM11QR_PxSfu7fPHoYVG29asE7ywQYRQhXROZ315U",
     "discord_server_id": "1422384816472457288",
     "meta_title": "{{HOME}} vs {{AWAY}} Live Stream | {{LEAGUE}} - {{SITE_NAME}}",
     "meta_desc": "Live coverage details for {{HOME}} vs {{AWAY}} in the {{LEAGUE}}. Check scheduled start time, streaming availability, and browser compatibility on {{SITE_NAME}}.",
