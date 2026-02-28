@@ -1197,7 +1197,17 @@
         "Cincinnati": "assets/logos/streamed/cincinnati.webp",
         "Oklahoma State": "assets/logos/streamed/oklahoma-state.webp",
         "Miami": "assets/logos/streamed/miami.webp",
-        "Boston College": "assets/logos/streamed/boston-college.webp"
+        "Boston College": "assets/logos/streamed/boston-college.webp",
+        "Georgia": "assets/logos/streamed/georgia.webp",
+        "South Carolina": "assets/logos/streamed/south-carolina.webp",
+        "Arizona State": "assets/logos/streamed/arizona-state.webp",
+        "Utah": "assets/logos/streamed/utah.webp",
+        "Texas A and M": "assets/logos/streamed/texas-a-and-m.webp",
+        "Texas": "assets/logos/streamed/texas.webp",
+        "Iowa State": "assets/logos/streamed/iowa-state.webp",
+        "Texas Tech": "assets/logos/streamed/texas-tech.webp",
+        "Washington": "assets/logos/streamed/washington.webp",
+        "Wisconsin": "assets/logos/streamed/wisconsin.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
