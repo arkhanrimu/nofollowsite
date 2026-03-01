@@ -1369,7 +1369,9 @@
         "Zsombor Piros": "assets/logos/upstreams/zsombor-piros.webp",
         "Sebastian Ofner": "assets/logos/upstreams/sebastian-ofner.webp",
         "Miguel Damas": "assets/logos/upstreams/miguel-damas.webp",
-        "Facundo Diaz Acosta": "assets/logos/upstreams/facundo-diaz-acosta.webp"
+        "Facundo Diaz Acosta": "assets/logos/upstreams/facundo-diaz-acosta.webp",
+        "Bradford Bulls": "assets/logos/streamed/bradford-bulls.webp",
+        "Toulouse Olympique": "assets/logos/streamed/toulouse-olympique.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
