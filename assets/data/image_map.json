@@ -1970,7 +1970,13 @@
         "MoDo Hockey": "assets/logos/upstreams/modo-hockey.webp",
         "BIK Karlskoga": "assets/logos/upstreams/bik-karlskoga.webp",
         "SC Farense U23": "assets/logos/upstreams/sc-farense-u23.webp",
-        "Vizela U23": "assets/logos/upstreams/vizela-u23.webp"
+        "Vizela U23": "assets/logos/upstreams/vizela-u23.webp",
+        "UAB": "assets/logos/streamed/uab.webp",
+        "North Texas": "assets/logos/streamed/north-texas.webp",
+        "South Florida": "assets/logos/streamed/south-florida.webp",
+        "Tulane": "assets/logos/streamed/tulane.webp",
+        "Canisius": "assets/logos/streamed/canisius.webp",
+        "Quinnipiac": "assets/logos/streamed/quinnipiac.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
