@@ -1956,7 +1956,12 @@
         "Theodor-Matei Ene": "assets/logos/upstreams/theodor-matei-ene.webp",
         "Lars Wagenaar": "assets/logos/upstreams/lars-wagenaar.webp",
         "India Cricket": "assets/logos/streamed/india-cricket.webp",
-        "West Indies Cricket": "assets/logos/streamed/west-indies-cricket.webp"
+        "West Indies Cricket": "assets/logos/streamed/west-indies-cricket.webp",
+        "Neil Oberleitner": "assets/logos/upstreams/neil-oberleitner.webp",
+        "Zhiyi Wang": "assets/logos/upstreams/zhiyi-wang.webp",
+        "Qian Xi Han": "assets/logos/upstreams/qian-xi-han.webp",
+        "Christo Popov": "assets/logos/upstreams/christo-popov.webp",
+        "Toma Junior Popov": "assets/logos/upstreams/toma-junior-popov.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -2194,6 +2199,9 @@
         "Brasilia, Brazil, Qualifying": "assets/logos/leagues/brasilia-brazil-qualifying.webp",
         "Kuwait in Hong Kong, China, 4 T20I Series": "assets/logos/leagues/kuwait-in-hong-kong-china-4-t20i-series.webp",
         "Togo - Championnat National": "assets/logos/leagues/togo-championnat-national.webp",
-        "Indian Wells, USA, Qualifying": "assets/logos/leagues/indian-wells-usa-qualifying.webp"
+        "Indian Wells, USA, Qualifying": "assets/logos/leagues/indian-wells-usa-qualifying.webp",
+        "German Open (W)": "assets/logos/leagues/german-open-w.webp",
+        "German Open - Double": "assets/logos/leagues/german-open-double.webp",
+        "German Open": "assets/logos/leagues/german-open.webp"
     }
 }
