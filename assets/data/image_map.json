@@ -1427,7 +1427,31 @@
         "Geoffrey Blancaneaux": "assets/logos/upstreams/geoffrey-blancaneaux.webp",
         "Gabriele Piraino": "assets/logos/upstreams/gabriele-piraino.webp",
         "Kiara Zabkova": "assets/logos/upstreams/kiara-zabkova.webp",
-        "Mirjana Jovanovic": "assets/logos/upstreams/mirjana-jovanovic.webp"
+        "Mirjana Jovanovic": "assets/logos/upstreams/mirjana-jovanovic.webp",
+        "New Zealand Women": "assets/logos/upstreams/new-zealand-women.webp",
+        "Zimbabwe Women": "assets/logos/upstreams/zimbabwe-women.webp",
+        "Chungnam Asan FC": "assets/logos/upstreams/chungnam-asan-fc.webp",
+        "Paju Frontier FC": "assets/logos/upstreams/paju-frontier-fc.webp",
+        "Clement Tabur": "assets/logos/upstreams/clement-tabur.webp",
+        "Arthur Bouquier": "assets/logos/upstreams/arthur-bouquier.webp",
+        "Matteo Martineau": "assets/logos/upstreams/matteo-martineau.webp",
+        "Keegan Smith": "assets/logos/upstreams/keegan-smith.webp",
+        "Hernando Jose Escurra Isnardi": "assets/logos/upstreams/hernando-jose-escurra-isnardi.webp",
+        "Alejo Lorenzo Lingua Lavallen": "assets/logos/upstreams/alejo-lorenzo-lingua-lavallen.webp",
+        "Gabriel Alejandro Hidalgo": "assets/logos/upstreams/gabriel-alejandro-hidalgo.webp",
+        "Julian Cundom": "assets/logos/upstreams/julian-cundom.webp",
+        "Fantino Alberca de Las Casas": "assets/logos/upstreams/fantino-alberca-de-las-casas.webp",
+        "Ramiro Amarilla": "assets/logos/upstreams/ramiro-amarilla.webp",
+        "Miguel Semedo": "assets/logos/upstreams/miguel-semedo.webp",
+        "Pierre Antoine Tailleu": "assets/logos/upstreams/pierre-antoine-tailleu.webp",
+        "Monika Jirouskova": "assets/logos/upstreams/monika-jirouskova.webp",
+        "Melissa Boyden": "assets/logos/upstreams/melissa-boyden.webp",
+        "Beata Havlickova": "assets/logos/upstreams/beata-havlickova.webp",
+        "Aliaksandra Skapets": "assets/logos/upstreams/aliaksandra-skapets.webp",
+        "Charles Broom": "assets/logos/upstreams/charles-broom.webp",
+        "Alex Knaff": "assets/logos/upstreams/alex-knaff.webp",
+        "Timeo Trufelli": "assets/logos/upstreams/timeo-trufelli.webp",
+        "Jelle Sels": "assets/logos/upstreams/jelle-sels.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -1619,6 +1643,7 @@
         "FIBA World Cup, European Qualifiers, Group B": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-b.webp",
         "FIBA World Cup, European Qualifiers, Group C": "assets/logos/leagues/fiba-world-cup-european-qualifiers-group-c.webp",
         "Tennis ATP": "assets/logos/leagues/tennis-atp.webp",
-        "Snooker": "assets/logos/leagues/snooker.webp"
+        "Snooker": "assets/logos/leagues/snooker.webp",
+        "Zimbabwe Women in New Zealand, 3 T20I Series": "assets/logos/leagues/zimbabwe-women-in-new-zealand-3-t20i-series.webp"
     }
 }
