@@ -1963,7 +1963,14 @@
         "Christo Popov": "assets/logos/upstreams/christo-popov.webp",
         "Toma Junior Popov": "assets/logos/upstreams/toma-junior-popov.webp",
         "Davidson": "assets/logos/streamed/davidson.webp",
-        "La Salle": "assets/logos/streamed/la-salle.webp"
+        "La Salle": "assets/logos/streamed/la-salle.webp",
+        "Antivari (W)": "assets/logos/upstreams/antivari-w.webp",
+        "El Salvador (W)": "assets/logos/upstreams/el-salvador-w.webp",
+        "Barbados (W)": "assets/logos/upstreams/barbados-w.webp",
+        "MoDo Hockey": "assets/logos/upstreams/modo-hockey.webp",
+        "BIK Karlskoga": "assets/logos/upstreams/bik-karlskoga.webp",
+        "SC Farense U23": "assets/logos/upstreams/sc-farense-u23.webp",
+        "Vizela U23": "assets/logos/upstreams/vizela-u23.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -2204,6 +2211,8 @@
         "Indian Wells, USA, Qualifying": "assets/logos/leagues/indian-wells-usa-qualifying.webp",
         "German Open (W)": "assets/logos/leagues/german-open-w.webp",
         "German Open - Double": "assets/logos/leagues/german-open-double.webp",
-        "German Open": "assets/logos/leagues/german-open.webp"
+        "German Open": "assets/logos/leagues/german-open.webp",
+        "Hockey Allsvenskan": "assets/logos/leagues/hockey-allsvenskan.webp",
+        "U23 Championship, Relegation Round": "assets/logos/leagues/u23-championship-relegation-round.webp"
     }
 }
