@@ -2042,7 +2042,16 @@
         "Nouakchott Academie": "assets/logos/upstreams/nouakchott-academie.webp",
         "Gendrim": "assets/logos/upstreams/gendrim.webp",
         "Honoka Kobayashi": "assets/logos/upstreams/honoka-kobayashi.webp",
-        "Natsuho Arakawa": "assets/logos/upstreams/natsuho-arakawa.webp"
+        "Natsuho Arakawa": "assets/logos/upstreams/natsuho-arakawa.webp",
+        "Jamestown Jackals": "assets/logos/upstreams/jamestown-jackals.webp",
+        "Grove City Whitetails": "assets/logos/upstreams/grove-city-whitetails.webp",
+        "Cincinnati Cyclones": "assets/logos/upstreams/cincinnati-cyclones.webp",
+        "Kalamazoo Wings": "assets/logos/upstreams/kalamazoo-wings.webp",
+        "Laquisa Khan": "assets/logos/upstreams/laquisa-khan.webp",
+        "Olga Danilova": "assets/logos/upstreams/olga-danilova.webp",
+        "Racing Club Aruba": "assets/logos/upstreams/racing-club-aruba.webp",
+        "Pyotr Nesterov": "assets/logos/upstreams/pyotr-nesterov.webp",
+        "Maximilian Neuchrist": "assets/logos/upstreams/maximilian-neuchrist.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -2285,6 +2294,7 @@
         "German Open - Double": "assets/logos/leagues/german-open-double.webp",
         "German Open": "assets/logos/leagues/german-open.webp",
         "Hockey Allsvenskan": "assets/logos/leagues/hockey-allsvenskan.webp",
-        "U23 Championship, Relegation Round": "assets/logos/leagues/u23-championship-relegation-round.webp"
+        "U23 Championship, Relegation Round": "assets/logos/leagues/u23-championship-relegation-round.webp",
+        "ECHL": "assets/logos/leagues/echl.webp"
     }
 }
