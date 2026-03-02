@@ -2728,7 +2728,13 @@
         "Remy Bertola": "assets/logos/upstreams/remy-bertola.webp",
         "Clement Chidekh": "assets/logos/upstreams/clement-chidekh.webp",
         "Daniil Glinka": "assets/logos/upstreams/daniil-glinka.webp",
-        "Jan Choinski": "assets/logos/upstreams/jan-choinski.webp"
+        "Jan Choinski": "assets/logos/upstreams/jan-choinski.webp",
+        "Howard": "assets/logos/streamed/howard.webp",
+        "Coppin State": "assets/logos/streamed/coppin-state.webp",
+        "Nicholls State": "assets/logos/streamed/nicholls-state.webp",
+        "McNeese State": "assets/logos/streamed/mcneese-state.webp",
+        "Incarnate Word": "assets/logos/streamed/incarnate-word.webp",
+        "Stephen F Austin": "assets/logos/streamed/stephen-f-austin.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
