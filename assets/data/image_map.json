@@ -2708,7 +2708,14 @@
         "Jerome Kym": "assets/logos/upstreams/jerome-kym.webp",
         "Dimitar Kuzmanov": "assets/logos/upstreams/dimitar-kuzmanov.webp",
         "Robin Bertrand": "assets/logos/upstreams/robin-bertrand.webp",
-        "Stefanos Sakellaridis": "assets/logos/upstreams/stefanos-sakellaridis.webp"
+        "Stefanos Sakellaridis": "assets/logos/upstreams/stefanos-sakellaridis.webp",
+        "Pharco FC": "assets/logos/upstreams/pharco-fc.webp",
+        "Ismailia Electricity Club": "assets/logos/upstreams/ismailia-electricity-club.webp",
+        "Al-Ittihad Alexandria": "assets/logos/upstreams/al-ittihad-alexandria.webp",
+        "Ghazl El Mahalla FC": "assets/logos/upstreams/ghazl-el-mahalla-fc.webp",
+        "Zrinjski": "assets/logos/upstreams/zrinjski.webp",
+        "Grobina": "assets/logos/upstreams/grobina.webp",
+        "BK Kekava": "assets/logos/upstreams/bk-kekava.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -3004,6 +3011,8 @@
         "Portugal - League Revelacao U23 - Gr.Retrogradare": "assets/logos/leagues/portugal-league-revelacao-u23-grretrogradare.webp",
         "Sierra Leone - Premier League": "assets/logos/leagues/sierra-leone-premier-league.webp",
         "Svenska Cupen, Group 3": "assets/logos/leagues/svenska-cupen-group-3.webp",
-        "English Premier League U21": "assets/logos/leagues/english-premier-league-u21.webp"
+        "English Premier League U21": "assets/logos/leagues/english-premier-league-u21.webp",
+        "Egyptian Premier League": "assets/logos/leagues/egyptian-premier-league.webp",
+        "NBL, West": "assets/logos/leagues/nbl-west.webp"
     }
 }
