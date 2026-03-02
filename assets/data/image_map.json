@@ -2552,7 +2552,31 @@
         "Rory Mcleod": "assets/logos/upstreams/rory-mcleod.webp",
         "Barry Pinches": "assets/logos/upstreams/barry-pinches.webp",
         "Gerard Greene": "assets/logos/upstreams/gerard-greene.webp",
-        "Hammad Miah": "assets/logos/upstreams/hammad-miah.webp"
+        "Hammad Miah": "assets/logos/upstreams/hammad-miah.webp",
+        "Waterhouse": "assets/logos/upstreams/waterhouse.webp",
+        "Spanish Town Police FC": "assets/logos/upstreams/spanish-town-police-fc.webp",
+        "UD Leiria U23": "assets/logos/upstreams/ud-leiria-u23.webp",
+        "Gil Vicente U23": "assets/logos/upstreams/gil-vicente-u23.webp",
+        "Sesvete": "assets/logos/upstreams/sesvete.webp",
+        "Dubrava": "assets/logos/upstreams/dubrava.webp",
+        "Torreense U23": "assets/logos/upstreams/torreense-u23.webp",
+        "Acad\u00e9mico Viseu U23": "assets/logos/upstreams/acad\u00e9mico-viseu-u23.webp",
+        "Famalic\u00e3o U23": "assets/logos/upstreams/famalic\u00e3o-u23.webp",
+        "Santa Clara U23": "assets/logos/upstreams/santa-clara-u23.webp",
+        "Portimonense U23": "assets/logos/upstreams/portimonense-u23.webp",
+        "Estrela Amadora U23": "assets/logos/upstreams/estrela-amadora-u23.webp",
+        "Slovakia (W)": "assets/logos/upstreams/slovakia-w.webp",
+        "Leixoes U23": "assets/logos/upstreams/leixoes-u23.webp",
+        "Valentino Conte": "assets/logos/upstreams/valentino-conte.webp",
+        "Nicolas Bruna": "assets/logos/upstreams/nicolas-bruna.webp",
+        "Ryuto Kizaki": "assets/logos/upstreams/ryuto-kizaki.webp",
+        "Naoki Nakagawa": "assets/logos/upstreams/naoki-nakagawa.webp",
+        "Ryota Tanuma": "assets/logos/upstreams/ryota-tanuma.webp",
+        "Achilles Belkovics": "assets/logos/upstreams/achilles-belkovics.webp",
+        "Minori Natsuka": "assets/logos/upstreams/minori-natsuka.webp",
+        "Junri Namigata": "assets/logos/upstreams/junri-namigata.webp",
+        "Yuna Ohashi": "assets/logos/upstreams/yuna-ohashi.webp",
+        "Miyu Nakashima": "assets/logos/upstreams/miyu-nakashima.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -2842,6 +2866,8 @@
         "Indonesia Super League": "assets/logos/leagues/indonesia-super-league.webp",
         "Kenya Premier League": "assets/logos/leagues/kenya-premier-league.webp",
         "Ethiopia - Higher League": "assets/logos/leagues/ethiopia-higher-league.webp",
-        "Mestis Playoffs": "assets/logos/leagues/mestis-playoffs.webp"
+        "Mestis Playoffs": "assets/logos/leagues/mestis-playoffs.webp",
+        "Croatia - Prva NL": "assets/logos/leagues/croatia-prva-nl.webp",
+        "U23 Championship, Championship Round": "assets/logos/leagues/u23-championship-championship-round.webp"
     }
 }
