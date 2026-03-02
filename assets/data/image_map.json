@@ -2576,7 +2576,21 @@
         "Minori Natsuka": "assets/logos/upstreams/minori-natsuka.webp",
         "Junri Namigata": "assets/logos/upstreams/junri-namigata.webp",
         "Yuna Ohashi": "assets/logos/upstreams/yuna-ohashi.webp",
-        "Miyu Nakashima": "assets/logos/upstreams/miyu-nakashima.webp"
+        "Miyu Nakashima": "assets/logos/upstreams/miyu-nakashima.webp",
+        "Maritimo U23": "assets/logos/upstreams/maritimo-u23.webp",
+        "Eastoril Praia U23": "assets/logos/upstreams/eastoril-praia-u23.webp",
+        "Kotaro Mochizuki": "assets/logos/upstreams/kotaro-mochizuki.webp",
+        "Valentin Lapalu": "assets/logos/upstreams/valentin-lapalu.webp",
+        "Hunter Heck": "assets/logos/upstreams/hunter-heck.webp",
+        "Shohei Chikami": "assets/logos/upstreams/shohei-chikami.webp",
+        "Arjun Mehrotra": "assets/logos/upstreams/arjun-mehrotra.webp",
+        "Yu Maeda": "assets/logos/upstreams/yu-maeda.webp",
+        "Sae Noguchi": "assets/logos/upstreams/sae-noguchi.webp",
+        "Kato (2007) Miyu": "assets/logos/upstreams/kato-2007-miyu.webp",
+        "Ayumi Miyamoto": "assets/logos/upstreams/ayumi-miyamoto.webp",
+        "Ayaka Ozeki": "assets/logos/upstreams/ayaka-ozeki.webp",
+        "Bence Boros": "assets/logos/upstreams/bence-boros.webp",
+        "Sora Fukuda": "assets/logos/upstreams/sora-fukuda.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -2868,6 +2882,7 @@
         "Ethiopia - Higher League": "assets/logos/leagues/ethiopia-higher-league.webp",
         "Mestis Playoffs": "assets/logos/leagues/mestis-playoffs.webp",
         "Croatia - Prva NL": "assets/logos/leagues/croatia-prva-nl.webp",
-        "U23 Championship, Championship Round": "assets/logos/leagues/u23-championship-championship-round.webp"
+        "U23 Championship, Championship Round": "assets/logos/leagues/u23-championship-championship-round.webp",
+        "Portugal - League Revelacao U23 - Gr.Retrogradare": "assets/logos/leagues/portugal-league-revelacao-u23-grretrogradare.webp"
     }
 }
