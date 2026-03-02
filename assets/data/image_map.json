@@ -2738,7 +2738,33 @@
         "Eastern Washington": "assets/logos/streamed/eastern-washington.webp",
         "Idaho": "assets/logos/streamed/idaho.webp",
         "Portland State": "assets/logos/streamed/portland-state.webp",
-        "Weber State": "assets/logos/streamed/weber-state.webp"
+        "Weber State": "assets/logos/streamed/weber-state.webp",
+        "Colin Sinclair": "assets/logos/upstreams/colin-sinclair.webp",
+        "Sam Ryan Ziegann": "assets/logos/upstreams/sam-ryan-ziegann.webp",
+        "Shinji Hazawa": "assets/logos/upstreams/shinji-hazawa.webp",
+        "Elena Micic": "assets/logos/upstreams/elena-micic.webp",
+        "Yuno Kitahara": "assets/logos/upstreams/yuno-kitahara.webp",
+        "Caitlin Baker": "assets/logos/upstreams/caitlin-baker.webp",
+        "Jenna Defalco": "assets/logos/upstreams/jenna-defalco.webp",
+        "Belle Thompson": "assets/logos/upstreams/belle-thompson.webp",
+        "Mia Sara Ribnikar": "assets/logos/upstreams/mia-sara-ribnikar.webp",
+        "Stella Kovacicova": "assets/logos/upstreams/stella-kovacicova.webp",
+        "Juan Pablo Varillas": "assets/logos/upstreams/juan-pablo-varillas.webp",
+        "Henrique Rocha": "assets/logos/upstreams/henrique-rocha.webp",
+        "Franco Agamenone": "assets/logos/upstreams/franco-agamenone.webp",
+        "Igor Marcondes": "assets/logos/upstreams/igor-marcondes.webp",
+        "Adolfo Daniel Vallejo": "assets/logos/upstreams/adolfo-daniel-vallejo.webp",
+        "Tristan Boyer": "assets/logos/upstreams/tristan-boyer.webp",
+        "Miguel Tobon": "assets/logos/upstreams/miguel-tobon.webp",
+        "Pedro Boscardin Dias": "assets/logos/upstreams/pedro-boscardin-dias.webp",
+        "Elmer Moller": "assets/logos/upstreams/elmer-moller.webp",
+        "Alvaro Guillen Meza": "assets/logos/upstreams/alvaro-guillen-meza.webp",
+        "Felipe Meligeni Alves": "assets/logos/upstreams/felipe-meligeni-alves.webp",
+        "Nikolas Sanchez Izquierdo": "assets/logos/upstreams/nikolas-sanchez-izquierdo.webp",
+        "Thiago Monteiro": "assets/logos/upstreams/thiago-monteiro.webp",
+        "Daniel Dutra Da Silva": "assets/logos/upstreams/daniel-dutra-da-silva.webp",
+        "Luis Guto Miguel": "assets/logos/upstreams/luis-guto-miguel.webp",
+        "Juan Pablo Ficovich": "assets/logos/upstreams/juan-pablo-ficovich.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -3036,6 +3062,7 @@
         "Svenska Cupen, Group 3": "assets/logos/leagues/svenska-cupen-group-3.webp",
         "English Premier League U21": "assets/logos/leagues/english-premier-league-u21.webp",
         "Egyptian Premier League": "assets/logos/leagues/egyptian-premier-league.webp",
-        "NBL, West": "assets/logos/leagues/nbl-west.webp"
+        "NBL, West": "assets/logos/leagues/nbl-west.webp",
+        "Championshipul CONCACAF U20 - Qualifiers": "assets/logos/leagues/championshipul-concacaf-u20-qualifiers.webp"
     }
 }
