@@ -2697,7 +2697,18 @@
         "Liam Krall": "assets/logos/upstreams/liam-krall.webp",
         "Goki Niinomi": "assets/logos/upstreams/goki-niinomi.webp",
         "Petr Bar Biryukov": "assets/logos/upstreams/petr-bar-biryukov.webp",
-        "Sergey Fomin": "assets/logos/upstreams/sergey-fomin.webp"
+        "Sergey Fomin": "assets/logos/upstreams/sergey-fomin.webp",
+        "Chemal FC": "assets/logos/upstreams/chemal-fc.webp",
+        "Harry Wendelken": "assets/logos/upstreams/harry-wendelken.webp",
+        "Philip Henning": "assets/logos/upstreams/philip-henning.webp",
+        "Max Houkes": "assets/logos/upstreams/max-houkes.webp",
+        "Corentin Denolly": "assets/logos/upstreams/corentin-denolly.webp",
+        "Lorenzo Giustino": "assets/logos/upstreams/lorenzo-giustino.webp",
+        "Arthur Gea": "assets/logos/upstreams/arthur-gea.webp",
+        "Jerome Kym": "assets/logos/upstreams/jerome-kym.webp",
+        "Dimitar Kuzmanov": "assets/logos/upstreams/dimitar-kuzmanov.webp",
+        "Robin Bertrand": "assets/logos/upstreams/robin-bertrand.webp",
+        "Stefanos Sakellaridis": "assets/logos/upstreams/stefanos-sakellaridis.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -2992,6 +3003,7 @@
         "U23 Championship, Championship Round": "assets/logos/leagues/u23-championship-championship-round.webp",
         "Portugal - League Revelacao U23 - Gr.Retrogradare": "assets/logos/leagues/portugal-league-revelacao-u23-grretrogradare.webp",
         "Sierra Leone - Premier League": "assets/logos/leagues/sierra-leone-premier-league.webp",
-        "Svenska Cupen, Group 3": "assets/logos/leagues/svenska-cupen-group-3.webp"
+        "Svenska Cupen, Group 3": "assets/logos/leagues/svenska-cupen-group-3.webp",
+        "English Premier League U21": "assets/logos/leagues/english-premier-league-u21.webp"
     }
 }
