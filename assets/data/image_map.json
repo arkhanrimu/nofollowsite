@@ -2544,7 +2544,15 @@
         "Mark Joyce": "assets/logos/upstreams/mark-joyce.webp",
         "Billy Joe Castle": "assets/logos/upstreams/billy-joe-castle.webp",
         "Menge Belashangul": "assets/logos/upstreams/menge-belashangul.webp",
-        "Sululta Ketema": "assets/logos/upstreams/sululta-ketema.webp"
+        "Sululta Ketema": "assets/logos/upstreams/sululta-ketema.webp",
+        "Kiekko-Vantaa": "assets/logos/upstreams/kiekko-vantaa.webp",
+        "TUTO Hockey": "assets/logos/upstreams/tuto-hockey.webp",
+        "Freddie Ridout": "assets/logos/upstreams/freddie-ridout.webp",
+        "Didrik Liljekvist": "assets/logos/upstreams/didrik-liljekvist.webp",
+        "Rory Mcleod": "assets/logos/upstreams/rory-mcleod.webp",
+        "Barry Pinches": "assets/logos/upstreams/barry-pinches.webp",
+        "Gerard Greene": "assets/logos/upstreams/gerard-greene.webp",
+        "Hammad Miah": "assets/logos/upstreams/hammad-miah.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -2833,6 +2841,7 @@
         "Turkiye Kupasi, Group A": "assets/logos/leagues/turkiye-kupasi-group-a.webp",
         "Indonesia Super League": "assets/logos/leagues/indonesia-super-league.webp",
         "Kenya Premier League": "assets/logos/leagues/kenya-premier-league.webp",
-        "Ethiopia - Higher League": "assets/logos/leagues/ethiopia-higher-league.webp"
+        "Ethiopia - Higher League": "assets/logos/leagues/ethiopia-higher-league.webp",
+        "Mestis Playoffs": "assets/logos/leagues/mestis-playoffs.webp"
     }
 }
