@@ -2134,7 +2134,30 @@
         "Jamaica": "assets/logos/streamed/jamaica.webp",
         "Argentinos JRS": "assets/logos/streamed/argentinos-jrs.webp",
         "Cuba Basketball": "assets/logos/streamed/cuba-basketball.webp",
-        "Uruguay Basketball": "assets/logos/streamed/uruguay-basketball.webp"
+        "Uruguay Basketball": "assets/logos/streamed/uruguay-basketball.webp",
+        "Nacional": "assets/logos/upstreams/nacional.webp",
+        "Pe\u00f1arol": "assets/logos/upstreams/pe\u00f1arol.webp",
+        "Recoleta": "assets/logos/upstreams/recoleta.webp",
+        "Andrej Martin": "assets/logos/upstreams/andrej-martin.webp",
+        "Filip Cristian Jianu": "assets/logos/upstreams/filip-cristian-jianu.webp",
+        "Marco Cecchinato": "assets/logos/upstreams/marco-cecchinato.webp",
+        "Aziz Ouakaa": "assets/logos/upstreams/aziz-ouakaa.webp",
+        "James McGloughlin": "assets/logos/upstreams/james-mcgloughlin.webp",
+        "Otso Martikainen": "assets/logos/upstreams/otso-martikainen.webp",
+        "Alex Rybakov": "assets/logos/upstreams/alex-rybakov.webp",
+        "Jacopo Berrettini": "assets/logos/upstreams/jacopo-berrettini.webp",
+        "Daniel Rincon": "assets/logos/upstreams/daniel-rincon.webp",
+        "Viktor Durasovic": "assets/logos/upstreams/viktor-durasovic.webp",
+        "Lukas Neumayer": "assets/logos/upstreams/lukas-neumayer.webp",
+        "Jacopo Vasam\u00ec": "assets/logos/upstreams/jacopo-vasam\u00ec.webp",
+        "Florent Bax": "assets/logos/upstreams/florent-bax.webp",
+        "Gabriele Pennaforti": "assets/logos/upstreams/gabriele-pennaforti.webp",
+        "Jonas Forejtek": "assets/logos/upstreams/jonas-forejtek.webp",
+        "Luka Mikrut": "assets/logos/upstreams/luka-mikrut.webp",
+        "Marco Trungelliti": "assets/logos/upstreams/marco-trungelliti.webp",
+        "Garrett Johns": "assets/logos/upstreams/garrett-johns.webp",
+        "Melios Efstathiou": "assets/logos/upstreams/melios-efstathiou.webp",
+        "Alejandro Moro Canas": "assets/logos/upstreams/alejandro-moro-canas.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -2395,6 +2418,9 @@
         "Euroleague": "assets/logos/leagues/euroleague.webp",
         "ABA League 2": "assets/logos/leagues/aba-league-2.webp",
         "European League": "assets/logos/leagues/european-league.webp",
-        "Champions Hockey League": "assets/logos/leagues/champions-hockey-league.webp"
+        "Champions Hockey League": "assets/logos/leagues/champions-hockey-league.webp",
+        "Paraguay Primera Division": "assets/logos/leagues/paraguay-primera-division.webp",
+        "Kigali, Rwanda": "assets/logos/leagues/kigali-rwanda.webp",
+        "Hersonissos, Greece": "assets/logos/leagues/hersonissos-greece.webp"
     }
 }
