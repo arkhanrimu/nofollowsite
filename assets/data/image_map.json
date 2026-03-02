@@ -2129,7 +2129,12 @@
         "Nexe": "assets/logos/upstreams/nexe.webp",
         "Montpellier": "assets/logos/upstreams/montpellier.webp",
         "SG Flensburg-Handewitt": "assets/logos/upstreams/sg-flensburg-handewitt.webp",
-        "Vardar": "assets/logos/upstreams/vardar.webp"
+        "Vardar": "assets/logos/upstreams/vardar.webp",
+        "Sao Paulo": "assets/logos/streamed/sao-paulo.webp",
+        "Jamaica": "assets/logos/streamed/jamaica.webp",
+        "Argentinos JRS": "assets/logos/streamed/argentinos-jrs.webp",
+        "Cuba Basketball": "assets/logos/streamed/cuba-basketball.webp",
+        "Uruguay Basketball": "assets/logos/streamed/uruguay-basketball.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
