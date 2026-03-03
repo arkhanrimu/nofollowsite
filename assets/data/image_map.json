@@ -2850,7 +2850,9 @@
         "Pumas": "assets/logos/streamed/pumas.webp",
         "Erzurumspor": "assets/logos/streamed/erzurumspor.webp",
         "Ankara Ke\u00e7i\u00f6reng\u00fcc\u00fc": "assets/logos/streamed/ankara-ke\u00e7i\u00f6reng\u00fcc\u00fc.webp",
-        "U.N.A.M.- Pumas": "assets/logos/upstreams/unam-pumas.webp"
+        "U.N.A.M.- Pumas": "assets/logos/upstreams/unam-pumas.webp",
+        "Uruguay U17": "assets/logos/streamed/uruguay-u17.webp",
+        "Argentina U17": "assets/logos/streamed/argentina-u17.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
