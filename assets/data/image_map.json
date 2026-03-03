@@ -2843,7 +2843,14 @@
         "FYR Macedonia W": "assets/logos/upstreams/fyr-macedonia-w.webp",
         "Eurofarm Rabotnik": "assets/logos/upstreams/eurofarm-rabotnik.webp",
         "ONICO Warszawa": "assets/logos/upstreams/onico-warszawa.webp",
-        "Trentino": "assets/logos/upstreams/trentino.webp"
+        "Trentino": "assets/logos/upstreams/trentino.webp",
+        "Chile": "assets/logos/streamed/chile.webp",
+        "Venezuela": "assets/logos/streamed/venezuela.webp",
+        "Alianza Atl\u00e9tico": "assets/logos/streamed/alianza-atl\u00e9tico.webp",
+        "Pumas": "assets/logos/streamed/pumas.webp",
+        "Erzurumspor": "assets/logos/streamed/erzurumspor.webp",
+        "Ankara Ke\u00e7i\u00f6reng\u00fcc\u00fc": "assets/logos/streamed/ankara-ke\u00e7i\u00f6reng\u00fcc\u00fc.webp",
+        "U.N.A.M.- Pumas": "assets/logos/upstreams/unam-pumas.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
