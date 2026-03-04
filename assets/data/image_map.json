@@ -3183,7 +3183,11 @@
         "Japan": "assets/logos/streamed/japan.webp",
         "Panama": "assets/logos/streamed/panama.webp",
         "Gornik Zabrze": "assets/logos/streamed/gornik-zabrze.webp",
-        "Avia \u015awidnik": "assets/logos/streamed/avia-\u015bwidnik.webp"
+        "Avia \u015awidnik": "assets/logos/streamed/avia-\u015bwidnik.webp",
+        "Fordham": "assets/logos/streamed/fordham.webp",
+        "Ohio State": "assets/logos/streamed/ohio-state.webp",
+        "Saint Louis": "assets/logos/streamed/saint-louis.webp",
+        "Loyola-Chicago": "assets/logos/streamed/loyola-chicago.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
