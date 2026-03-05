@@ -3383,7 +3383,16 @@
         "UPCN": "assets/logos/upstreams/upcn.webp",
         "San Lorenzo de Almagro": "assets/logos/upstreams/san-lorenzo-de-almagro.webp",
         "NK Opatija": "assets/logos/upstreams/nk-opatija.webp",
-        "Hrvace": "assets/logos/upstreams/hrvace.webp"
+        "Hrvace": "assets/logos/upstreams/hrvace.webp",
+        "Metropolitanos FC": "assets/logos/streamed/metropolitanos-fc.webp",
+        "Melgar": "assets/logos/streamed/melgar.webp",
+        "Chiefs Super Rugby": "assets/logos/streamed/chiefs-super-rugby.webp",
+        "New South Wales Waratahs": "assets/logos/streamed/new-south-wales-waratahs.webp",
+        "Hurricanes Super Rugby": "assets/logos/streamed/hurricanes-super-rugby.webp",
+        "Japan Baseball": "assets/logos/streamed/japan-baseball.webp",
+        "Panama Baseball": "assets/logos/streamed/panama-baseball.webp",
+        "Cuba Baseball": "assets/logos/streamed/cuba-baseball.webp",
+        "Borussia M\u00f6nchengladbach": "assets/logos/streamed/borussia-m\u00f6nchengladbach.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
