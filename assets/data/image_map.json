@@ -3865,7 +3865,11 @@
         "Louisiana Tech": "assets/logos/streamed/louisiana-tech.webp",
         "Michigan": "assets/logos/streamed/michigan.webp",
         "UTEP": "assets/logos/streamed/utep.webp",
-        "Joachim Szamborski": "assets/logos/upstreams/joachim-szamborski.webp"
+        "Joachim Szamborski": "assets/logos/upstreams/joachim-szamborski.webp",
+        "Santiago Rodriguez Taverna": "assets/logos/upstreams/santiago-rodriguez-taverna.webp",
+        "Nicolas Zanellato": "assets/logos/upstreams/nicolas-zanellato.webp",
+        "Luke Littler": "assets/logos/upstreams/luke-littler.webp",
+        "Josh Rock": "assets/logos/upstreams/josh-rock.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -4280,6 +4284,8 @@
         "Serie A2": "assets/logos/leagues/serie-a2.webp",
         "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp",
         "Australia - NPL - South": "assets/logos/leagues/australia-npl-south.webp",
-        "Darts": "assets/logos/leagues/darts.webp"
+        "Darts": "assets/logos/leagues/darts.webp",
+        "Colombia Primera A": "assets/logos/leagues/colombia-primera-a.webp",
+        "Premier League, Night 5": "assets/logos/leagues/premier-league-night-5.webp"
     }
 }
