@@ -3658,7 +3658,9 @@
         "Jamshedpur FC": "assets/logos/upstreams/jamshedpur-fc.webp",
         "Inter Kashi FC": "assets/logos/upstreams/inter-kashi-fc.webp",
         "Maximo Zeitune": "assets/logos/upstreams/maximo-zeitune.webp",
-        "Valerio Aboian": "assets/logos/upstreams/valerio-aboian.webp"
+        "Valerio Aboian": "assets/logos/upstreams/valerio-aboian.webp",
+        "Roki": "assets/logos/upstreams/roki.webp",
+        "Imatran Kettera": "assets/logos/upstreams/imatran-kettera.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -4052,6 +4054,7 @@
         "PrvaLiga": "assets/logos/leagues/prvaliga.webp",
         "Romania Cup": "assets/logos/leagues/romania-cup.webp",
         "AFL": "assets/logos/leagues/afl.webp",
-        "ICE Hockey League, Playoffs": "assets/logos/leagues/ice-hockey-league-playoffs.webp"
+        "ICE Hockey League, Playoffs": "assets/logos/leagues/ice-hockey-league-playoffs.webp",
+        "Finland - MEastis - Playoff": "assets/logos/leagues/finland-meastis-playoff.webp"
     }
 }
