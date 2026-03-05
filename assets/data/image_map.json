@@ -3824,7 +3824,22 @@
         "Wrexham": "assets/logos/streamed/wrexham.webp",
         "Aizawl FC": "assets/logos/upstreams/aizawl-fc.webp",
         "Estudiantes de M\u00e9rida": "assets/logos/upstreams/estudiantes-de-m\u00e9rida.webp",
-        "Albirex Niigata Singapore": "assets/logos/upstreams/albirex-niigata-singapore.webp"
+        "Albirex Niigata Singapore": "assets/logos/upstreams/albirex-niigata-singapore.webp",
+        "Medina United": "assets/logos/upstreams/medina-united.webp",
+        "TMT": "assets/logos/upstreams/tmt.webp",
+        "Ports Authority": "assets/logos/upstreams/ports-authority.webp",
+        "Fortune": "assets/logos/upstreams/fortune.webp",
+        "Team Rhino": "assets/logos/upstreams/team-rhino.webp",
+        "Diego Dedura-Palomero": "assets/logos/upstreams/diego-dedura-palomero.webp",
+        "Ezequiel Monferrer": "assets/logos/upstreams/ezequiel-monferrer.webp",
+        "Urania Basket Milano": "assets/logos/upstreams/urania-basket-milano.webp",
+        "Avellino Basket": "assets/logos/upstreams/avellino-basket.webp",
+        "East Bengal": "assets/logos/upstreams/east-bengal.webp",
+        "Goa": "assets/logos/upstreams/goa.webp",
+        "Daniel Antonio Nunez": "assets/logos/upstreams/daniel-antonio-nunez.webp",
+        "Lorenzo Joaquin Rodriguez": "assets/logos/upstreams/lorenzo-joaquin-rodriguez.webp",
+        "Anja Strausak": "assets/logos/upstreams/anja-strausak.webp",
+        "Lole Courtois": "assets/logos/upstreams/lole-courtois.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -4235,6 +4250,7 @@
         "Austria - ICE League - Playoff": "assets/logos/leagues/austria-ice-league-playoff.webp",
         "Brazil - NBB": "assets/logos/leagues/brazil-nbb.webp",
         "Singapore - Premier League": "assets/logos/leagues/singapore-premier-league.webp",
-        "India - Super League": "assets/logos/leagues/india-super-league.webp"
+        "India - Super League": "assets/logos/leagues/india-super-league.webp",
+        "Serie A2": "assets/logos/leagues/serie-a2.webp"
     }
 }
