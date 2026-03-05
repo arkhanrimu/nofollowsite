@@ -3839,7 +3839,17 @@
         "Daniel Antonio Nunez": "assets/logos/upstreams/daniel-antonio-nunez.webp",
         "Lorenzo Joaquin Rodriguez": "assets/logos/upstreams/lorenzo-joaquin-rodriguez.webp",
         "Anja Strausak": "assets/logos/upstreams/anja-strausak.webp",
-        "Lole Courtois": "assets/logos/upstreams/lole-courtois.webp"
+        "Lole Courtois": "assets/logos/upstreams/lole-courtois.webp",
+        "Linkoping": "assets/logos/upstreams/linkoping.webp",
+        "Vaxjo": "assets/logos/upstreams/vaxjo.webp",
+        "Djurgarden": "assets/logos/upstreams/djurgarden.webp",
+        "Malmo": "assets/logos/upstreams/malmo.webp",
+        "Farjestad": "assets/logos/upstreams/farjestad.webp",
+        "Leksand": "assets/logos/upstreams/leksand.webp",
+        "Carlos Maria Zarate": "assets/logos/upstreams/carlos-maria-zarate.webp",
+        "Tomas Farjat": "assets/logos/upstreams/tomas-farjat.webp",
+        "Juan Estevez": "assets/logos/upstreams/juan-estevez.webp",
+        "Tadeo Meneo": "assets/logos/upstreams/tadeo-meneo.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -4251,6 +4261,7 @@
         "Brazil - NBB": "assets/logos/leagues/brazil-nbb.webp",
         "Singapore - Premier League": "assets/logos/leagues/singapore-premier-league.webp",
         "India - Super League": "assets/logos/leagues/india-super-league.webp",
-        "Serie A2": "assets/logos/leagues/serie-a2.webp"
+        "Serie A2": "assets/logos/leagues/serie-a2.webp",
+        "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp"
     }
 }
