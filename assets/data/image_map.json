@@ -4865,7 +4865,9 @@
         "Launceston City": "assets/logos/streamed/launceston-city.webp",
         "Mito HollyHock": "assets/logos/streamed/mito-hollyhock.webp",
         "Cronulla Sharks": "assets/logos/streamed/cronulla-sharks.webp",
-        "Gold Coast Titans": "assets/logos/streamed/gold-coast-titans.webp"
+        "Gold Coast Titans": "assets/logos/streamed/gold-coast-titans.webp",
+        "Yokohama DeNA BayStars": "assets/logos/streamed/yokohama-dena-baystars.webp",
+        "Hiroshima Toyo Carp": "assets/logos/streamed/hiroshima-toyo-carp.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
