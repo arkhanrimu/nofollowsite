@@ -5318,7 +5318,13 @@
         "Zug": "assets/logos/streamed/zug.webp",
         "RWDM Brussels": "assets/logos/streamed/rwdm-brussels.webp",
         "Sporting Delhi": "assets/logos/upstreams/sporting-delhi.webp",
-        "Olympiacos Piraeus Basketball": "assets/logos/streamed/olympiacos-piraeus-basketball.webp"
+        "Olympiacos Piraeus Basketball": "assets/logos/streamed/olympiacos-piraeus-basketball.webp",
+        "Yale": "assets/logos/streamed/yale.webp",
+        "Princeton": "assets/logos/streamed/princeton.webp",
+        "Dartmouth": "assets/logos/streamed/dartmouth.webp",
+        "Cornell": "assets/logos/streamed/cornell.webp",
+        "Pallacanestro Reggiana": "assets/logos/streamed/pallacanestro-reggiana.webp",
+        "Pallacanestro Trieste": "assets/logos/streamed/pallacanestro-trieste.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
