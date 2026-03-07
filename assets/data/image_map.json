@@ -5307,7 +5307,11 @@
         "\u00dajpest": "assets/logos/streamed/\u00fajpest.webp",
         "Paks": "assets/logos/streamed/paks.webp",
         "CB Cangas": "assets/logos/streamed/cb-cangas.webp",
-        "BYU": "assets/logos/streamed/byu.webp"
+        "BYU": "assets/logos/streamed/byu.webp",
+        "HC Ajoie": "assets/logos/streamed/hc-ajoie.webp",
+        "Ambri-Piotta": "assets/logos/streamed/ambri-piotta.webp",
+        "Bern": "assets/logos/streamed/bern.webp",
+        "Dinamo Basket Sassari": "assets/logos/streamed/dinamo-basket-sassari.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
