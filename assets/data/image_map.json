@@ -5315,7 +5315,9 @@
         "BC Andorra": "assets/logos/streamed/bc-andorra.webp",
         "HC Fribourg-Gott\u00e9ron": "assets/logos/streamed/hc-fribourg-gott\u00e9ron.webp",
         "Lausanne HC": "assets/logos/streamed/lausanne-hc.webp",
-        "Zug": "assets/logos/streamed/zug.webp"
+        "Zug": "assets/logos/streamed/zug.webp",
+        "RWDM Brussels": "assets/logos/streamed/rwdm-brussels.webp",
+        "Sporting Delhi": "assets/logos/upstreams/sporting-delhi.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
