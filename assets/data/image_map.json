@@ -5221,7 +5221,9 @@
         "1. FSV Mainz 05": "assets/logos/upstreams/1-fsv-mainz-05.webp",
         "Young Lions": "assets/logos/upstreams/young-lions.webp",
         "Portuguesa FC": "assets/logos/upstreams/portuguesa-fc.webp",
-        "Gimhae City FC": "assets/logos/upstreams/gimhae-city-fc.webp"
+        "Gimhae City FC": "assets/logos/upstreams/gimhae-city-fc.webp",
+        "SaiPa": "assets/logos/streamed/saipa.webp",
+        "Pelicans": "assets/logos/streamed/pelicans.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
