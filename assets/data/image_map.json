@@ -5195,7 +5195,13 @@
         "Scafati": "assets/logos/upstreams/scafati.webp",
         "Rimini": "assets/logos/upstreams/rimini.webp",
         "Brindisi": "assets/logos/upstreams/brindisi.webp",
-        "Real Sebastiani Rieti": "assets/logos/upstreams/real-sebastiani-rieti.webp"
+        "Real Sebastiani Rieti": "assets/logos/upstreams/real-sebastiani-rieti.webp",
+        "BC Avtodor Saratov": "assets/logos/streamed/bc-avtodor-saratov.webp",
+        "Uralmash Ekaterinburg": "assets/logos/streamed/uralmash-ekaterinburg.webp",
+        "Sabah": "assets/logos/streamed/sabah.webp",
+        "Rostov": "assets/logos/streamed/rostov.webp",
+        "FH Hafnarfjordur": "assets/logos/streamed/fh-hafnarfjordur.webp",
+        "Moss": "assets/logos/streamed/moss.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
