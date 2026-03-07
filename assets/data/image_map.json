@@ -5184,7 +5184,18 @@
         "George Washington": "assets/logos/streamed/george-washington.webp",
         "North Dakota": "assets/logos/streamed/north-dakota.webp",
         "Omaha": "assets/logos/streamed/omaha.webp",
-        "UC Davis": "assets/logos/streamed/uc-davis.webp"
+        "UC Davis": "assets/logos/streamed/uc-davis.webp",
+        "Gloria": "assets/logos/upstreams/gloria.webp",
+        "Academia Pervanciuc": "assets/logos/upstreams/academia-pervanciuc.webp",
+        "SC Braga/AAUM": "assets/logos/upstreams/sc-bragaaaum.webp",
+        "BCM Gravelines-Dunkerque": "assets/logos/upstreams/bcm-gravelines-dunkerque.webp",
+        "Boulazac Basket": "assets/logos/upstreams/boulazac-basket.webp",
+        "Pesaro": "assets/logos/upstreams/pesaro.webp",
+        "JuVi Cremona": "assets/logos/upstreams/juvi-cremona.webp",
+        "Scafati": "assets/logos/upstreams/scafati.webp",
+        "Rimini": "assets/logos/upstreams/rimini.webp",
+        "Brindisi": "assets/logos/upstreams/brindisi.webp",
+        "Real Sebastiani Rieti": "assets/logos/upstreams/real-sebastiani-rieti.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
