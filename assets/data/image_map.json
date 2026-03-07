@@ -4770,7 +4770,9 @@
         "Mogo Riga": "assets/logos/upstreams/mogo-riga.webp",
         "Kyiv Capitals": "assets/logos/upstreams/kyiv-capitals.webp",
         "Airwell Energija": "assets/logos/upstreams/airwell-energija.webp",
-        "Easterns": "assets/logos/upstreams/easterns.webp"
+        "Easterns": "assets/logos/upstreams/easterns.webp",
+        "Radford": "assets/logos/streamed/radford.webp",
+        "Presbyterian": "assets/logos/streamed/presbyterian.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
