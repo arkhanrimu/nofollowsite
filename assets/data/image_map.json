@@ -5263,7 +5263,11 @@
         "Panionios BC": "assets/logos/streamed/panionios-bc.webp",
         "SKA Saint Petersburg": "assets/logos/streamed/ska-saint-petersburg.webp",
         "Tappara": "assets/logos/streamed/tappara.webp",
-        "KalPa": "assets/logos/streamed/kalpa.webp"
+        "KalPa": "assets/logos/streamed/kalpa.webp",
+        "Sporting B": "assets/logos/streamed/sporting-b.webp",
+        "Cracovia Krakow": "assets/logos/streamed/cracovia-krakow.webp",
+        "Partick Thistle": "assets/logos/streamed/partick-thistle.webp",
+        "Deportivo de La Coru\u00f1a": "assets/logos/streamed/deportivo-de-la-coru\u00f1a.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
