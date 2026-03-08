@@ -5701,7 +5701,10 @@
         "MTK Budapest": "assets/logos/streamed/mtk-budapest.webp",
         "Di\u00f3sgy\u0151r": "assets/logos/streamed/di\u00f3sgy\u0151r.webp",
         "Castleford Tigers": "assets/logos/streamed/castleford-tigers.webp",
-        "Huddersfield Giants": "assets/logos/streamed/huddersfield-giants.webp"
+        "Huddersfield Giants": "assets/logos/streamed/huddersfield-giants.webp",
+        "Tartu Tammeka": "assets/logos/streamed/tartu-tammeka.webp",
+        "Lokeren-Temse": "assets/logos/streamed/lokeren-temse.webp",
+        "Beveren": "assets/logos/streamed/beveren.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
