@@ -5767,7 +5767,17 @@
         "Tekstilac Od\u017eaci": "assets/logos/streamed/tekstilac-od\u017eaci.webp",
         "Loznica": "assets/logos/streamed/loznica.webp",
         "Bears Academy": "assets/logos/streamed/bears-academy.webp",
-        "BK Amager": "assets/logos/streamed/bk-amager.webp"
+        "BK Amager": "assets/logos/streamed/bk-amager.webp",
+        "Kom Podgorica": "assets/logos/upstreams/kom-podgorica.webp",
+        "Rudar Pljevlja": "assets/logos/upstreams/rudar-pljevlja.webp",
+        "Racing Ferrol": "assets/logos/upstreams/racing-ferrol.webp",
+        "ASA T\u00e2rgu Mure\u015f": "assets/logos/upstreams/asa-t\u00e2rgu-mure\u015f.webp",
+        "Kalcer Radomlje": "assets/logos/upstreams/kalcer-radomlje.webp",
+        "NK Bravo": "assets/logos/upstreams/nk-bravo.webp",
+        "Valentin Basel": "assets/logos/upstreams/valentin-basel.webp",
+        "Milledge Cossu": "assets/logos/upstreams/milledge-cossu.webp",
+        "Juan Bautista Torres": "assets/logos/upstreams/juan-bautista-torres.webp",
+        "Hougang United": "assets/logos/upstreams/hougang-united.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -6314,6 +6324,7 @@
         "Bulgaria NBL": "assets/logos/leagues/bulgaria-nbl.webp",
         "China CBA All Star Game": "assets/logos/leagues/china-cba-all-star-game.webp",
         "Italy - Serie B - Gr.A": "assets/logos/leagues/italy-serie-b-gra.webp",
-        "Serie B Interregionale, Division C": "assets/logos/leagues/serie-b-interregionale-division-c.webp"
+        "Serie B Interregionale, Division C": "assets/logos/leagues/serie-b-interregionale-division-c.webp",
+        "Spain - Primera Federacion - Gr.1": "assets/logos/leagues/spain-primera-federacion-gr1.webp"
     }
 }
