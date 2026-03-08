@@ -5619,7 +5619,13 @@
         "Cheng Fung": "assets/logos/upstreams/cheng-fung.webp",
         "Victoria Mulville": "assets/logos/upstreams/victoria-mulville.webp",
         "Wonju DB Promy": "assets/logos/streamed/wonju-db-promy.webp",
-        "Daegu KOGAS Pegasus": "assets/logos/streamed/daegu-kogas-pegasus.webp"
+        "Daegu KOGAS Pegasus": "assets/logos/streamed/daegu-kogas-pegasus.webp",
+        "Gimhae FC": "assets/logos/streamed/gimhae-fc.webp",
+        "Cheonan City": "assets/logos/streamed/cheonan-city.webp",
+        "Zhejiang Professional": "assets/logos/streamed/zhejiang-professional.webp",
+        "Qingdao West Coast": "assets/logos/streamed/qingdao-west-coast.webp",
+        "Yuzhny Ural Orsk": "assets/logos/streamed/yuzhny-ural-orsk.webp",
+        "Kristall Saratov": "assets/logos/streamed/kristall-saratov.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
