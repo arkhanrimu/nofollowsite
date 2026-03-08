@@ -5695,7 +5695,9 @@
         "Helsingborg": "assets/logos/streamed/helsingborg.webp",
         "Sundsvall": "assets/logos/streamed/sundsvall.webp",
         "Slavia Prague": "assets/logos/streamed/slavia-prague.webp",
-        "Sparta Prague": "assets/logos/streamed/sparta-prague.webp"
+        "Sparta Prague": "assets/logos/streamed/sparta-prague.webp",
+        "Lusitania Lourosa": "assets/logos/streamed/lusitania-lourosa.webp",
+        "Sporting CP B": "assets/logos/streamed/sporting-cp-b.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
