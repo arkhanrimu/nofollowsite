@@ -5372,7 +5372,16 @@
         "Cusco": "assets/logos/streamed/cusco.webp",
         "Abilene Christian": "assets/logos/streamed/abilene-christian.webp",
         "Texas-Arlington": "assets/logos/streamed/texas-arlington.webp",
-        "Sacramento State": "assets/logos/streamed/sacramento-state.webp"
+        "Sacramento State": "assets/logos/streamed/sacramento-state.webp",
+        "Northwestern State Demons": "assets/logos/upstreams/northwestern-state-demons.webp",
+        "Mega Soccerbet": "assets/logos/upstreams/mega-soccerbet.webp",
+        "Studentski Centar": "assets/logos/upstreams/studentski-centar.webp",
+        "Cantu": "assets/logos/upstreams/cantu.webp",
+        "Heidelberg": "assets/logos/upstreams/heidelberg.webp",
+        "FC ASA Tg. Mures": "assets/logos/upstreams/fc-asa-tg-mures.webp",
+        "Almeria": "assets/logos/upstreams/almeria.webp",
+        "Leonesa": "assets/logos/upstreams/leonesa.webp",
+        "Eisenach": "assets/logos/upstreams/eisenach.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -5895,6 +5904,8 @@
         "Segunda FEB, Group West": "assets/logos/leagues/segunda-feb-group-west.webp",
         "U20 CONMEBOL Libertadores, Group A": "assets/logos/leagues/u20-conmebol-libertadores-group-a.webp",
         "I A MCKL": "assets/logos/leagues/i-a-mckl.webp",
-        "U20 CONMEBOL Libertadores, Group B": "assets/logos/leagues/u20-conmebol-libertadores-group-b.webp"
+        "U20 CONMEBOL Libertadores, Group B": "assets/logos/leagues/u20-conmebol-libertadores-group-b.webp",
+        "Southland Conference, Playoffs": "assets/logos/leagues/southland-conference-playoffs.webp",
+        "BBL": "assets/logos/leagues/bbl.webp"
     }
 }
