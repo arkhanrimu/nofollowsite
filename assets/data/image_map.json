@@ -6316,7 +6316,12 @@
         "Troy": "assets/logos/streamed/troy.webp",
         "Georgia Southern": "assets/logos/streamed/georgia-southern.webp",
         "Wright State": "assets/logos/streamed/wright-state.webp",
-        "Northern Kentucky": "assets/logos/streamed/northern-kentucky.webp"
+        "Northern Kentucky": "assets/logos/streamed/northern-kentucky.webp",
+        "Northern Colorado": "assets/logos/streamed/northern-colorado.webp",
+        "Hofstra": "assets/logos/streamed/hofstra.webp",
+        "Towson": "assets/logos/streamed/towson.webp",
+        "Robert Morris": "assets/logos/streamed/robert-morris.webp",
+        "Detroit": "assets/logos/streamed/detroit.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
