@@ -6300,7 +6300,12 @@
         "Horsens": "assets/logos/upstreams/horsens.webp",
         "Sarah Victoria Majesty Nita": "assets/logos/upstreams/sarah-victoria-majesty-nita.webp",
         "Azusa Ishii": "assets/logos/upstreams/azusa-ishii.webp",
-        "Natsumi Shioya": "assets/logos/upstreams/natsumi-shioya.webp"
+        "Natsumi Shioya": "assets/logos/upstreams/natsumi-shioya.webp",
+        "Alabama State": "assets/logos/streamed/alabama-state.webp",
+        "Alcorn State": "assets/logos/streamed/alcorn-state.webp",
+        "Monmouth": "assets/logos/streamed/monmouth.webp",
+        "Campbell": "assets/logos/streamed/campbell.webp",
+        "Texas A and M-Corpus Christi": "assets/logos/streamed/texas-a-and-m-corpus-christi.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
