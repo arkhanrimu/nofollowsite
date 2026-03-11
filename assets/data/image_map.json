@@ -6835,7 +6835,10 @@
         "New South Wales": "assets/logos/upstreams/new-south-wales.webp",
         "Quentin Halys": "assets/logos/upstreams/quentin-halys.webp",
         "Arnaud Merkle": "assets/logos/upstreams/arnaud-merkle.webp",
-        "Justin Hoh": "assets/logos/upstreams/justin-hoh.webp"
+        "Justin Hoh": "assets/logos/upstreams/justin-hoh.webp",
+        "Sharjah": "assets/logos/streamed/sharjah.webp",
+        "Al Nasr": "assets/logos/streamed/al-nasr.webp",
+        "Khorfakkan": "assets/logos/streamed/khorfakkan.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
