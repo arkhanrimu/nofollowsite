@@ -7504,7 +7504,13 @@
         "San Diego Wave FC": "assets/logos/upstreams/san-diego-wave-fc.webp",
         "Houston Dash": "assets/logos/upstreams/houston-dash.webp",
         "Luca Wiedenmann": "assets/logos/upstreams/luca-wiedenmann.webp",
-        "Boland": "assets/logos/upstreams/boland.webp"
+        "Boland": "assets/logos/upstreams/boland.webp",
+        "NK Dugopolje": "assets/logos/upstreams/nk-dugopolje.webp",
+        "1. FC Saarbr\u00fccken": "assets/logos/upstreams/1-fc-saarbr\u00fccken.webp",
+        "Viking": "assets/logos/upstreams/viking.webp",
+        "Terek Grozny": "assets/logos/upstreams/terek-grozny.webp",
+        "Michal Milko": "assets/logos/upstreams/michal-milko.webp",
+        "Tomas Talajka": "assets/logos/upstreams/tomas-talajka.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -8225,6 +8231,7 @@
         "USA - NWSL (W)": "assets/logos/leagues/usa-nwsl-w.webp",
         "Norway - Eliteserien": "assets/logos/leagues/norway-eliteserien.webp",
         "Campeonato Nacional, Women": "assets/logos/leagues/campeonato-nacional-women.webp",
-        "Stoiximan GBL": "assets/logos/leagues/stoiximan-gbl.webp"
+        "Stoiximan GBL": "assets/logos/leagues/stoiximan-gbl.webp",
+        "II Liga": "assets/logos/leagues/ii-liga.webp"
     }
 }
