@@ -7535,7 +7535,9 @@
         "SCU Torreense": "assets/logos/upstreams/scu-torreense.webp",
         "Liam Highfield": "assets/logos/upstreams/liam-highfield.webp",
         "Ronnie O'Sullivan": "assets/logos/upstreams/ronnie-osullivan.webp",
-        "Ross Muir": "assets/logos/upstreams/ross-muir.webp"
+        "Ross Muir": "assets/logos/upstreams/ross-muir.webp",
+        "Aston Villa WFC": "assets/logos/streamed/aston-villa-wfc.webp",
+        "Manchester City WFC": "assets/logos/streamed/manchester-city-wfc.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
