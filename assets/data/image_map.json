@@ -7796,7 +7796,17 @@
         "Vilius Gaubas": "assets/logos/upstreams/vilius-gaubas.webp",
         "Pablo Carre\u00f1o Busta": "assets/logos/upstreams/pablo-carre\u00f1o-busta.webp",
         "Jesper De Jong": "assets/logos/upstreams/jesper-de-jong.webp",
-        "Andrea Pellegrino": "assets/logos/upstreams/andrea-pellegrino.webp"
+        "Andrea Pellegrino": "assets/logos/upstreams/andrea-pellegrino.webp",
+        "Josip \u0160imund\u017ea": "assets/logos/upstreams/josip-\u0161imund\u017ea.webp",
+        "Max Alcala Gurri": "assets/logos/upstreams/max-alcala-gurri.webp",
+        "Dusan Obradovic": "assets/logos/upstreams/dusan-obradovic.webp",
+        "Duje Ajdukovi\u0107": "assets/logos/upstreams/duje-ajdukovi\u0107.webp",
+        "Matej Dodig": "assets/logos/upstreams/matej-dodig.webp",
+        "Nerman Fatic": "assets/logos/upstreams/nerman-fatic.webp",
+        "Mili Polji\u010dak": "assets/logos/upstreams/mili-polji\u010dak.webp",
+        "Sumit Nagal": "assets/logos/upstreams/sumit-nagal.webp",
+        "Henri Squire": "assets/logos/upstreams/henri-squire.webp",
+        "Daniel Michalski": "assets/logos/upstreams/daniel-michalski.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -8549,6 +8559,8 @@
         "Brasileiro Serie A": "assets/logos/leagues/brasileiro-serie-a.webp",
         "South Africa Women in New Zealand, 5 T20I Series": "assets/logos/leagues/south-africa-women-in-new-zealand-5-t20i-series.webp",
         "Serbia Super Liga": "assets/logos/leagues/serbia-super-liga.webp",
-        "Cyprus League": "assets/logos/leagues/cyprus-league.webp"
+        "Cyprus League": "assets/logos/leagues/cyprus-league.webp",
+        "Danish Superliga, Relegation round": "assets/logos/leagues/danish-superliga-relegation-round.webp",
+        "Hockey Allsvenskan, Playoffs": "assets/logos/leagues/hockey-allsvenskan-playoffs.webp"
     }
 }
