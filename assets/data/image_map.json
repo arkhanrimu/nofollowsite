@@ -7806,7 +7806,14 @@
         "Mili Polji\u010dak": "assets/logos/upstreams/mili-polji\u010dak.webp",
         "Sumit Nagal": "assets/logos/upstreams/sumit-nagal.webp",
         "Henri Squire": "assets/logos/upstreams/henri-squire.webp",
-        "Daniel Michalski": "assets/logos/upstreams/daniel-michalski.webp"
+        "Daniel Michalski": "assets/logos/upstreams/daniel-michalski.webp",
+        "Drogheda": "assets/logos/upstreams/drogheda.webp",
+        "Marina Melnikova": "assets/logos/upstreams/marina-melnikova.webp",
+        "A.H.Del Pino Cordova": "assets/logos/upstreams/ahdel-pino-cordova.webp",
+        "Paulo Andre Saraiva": "assets/logos/upstreams/paulo-andre-saraiva.webp",
+        "Conner Huertas Del Pino": "assets/logos/upstreams/conner-huertas-del-pino.webp",
+        "J.P.Didoni Bonini": "assets/logos/upstreams/jpdidoni-bonini.webp",
+        "Mariano KEastelboim": "assets/logos/upstreams/mariano-keastelboim.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -8561,6 +8568,7 @@
         "Serbia Super Liga": "assets/logos/leagues/serbia-super-liga.webp",
         "Cyprus League": "assets/logos/leagues/cyprus-league.webp",
         "Danish Superliga, Relegation round": "assets/logos/leagues/danish-superliga-relegation-round.webp",
-        "Hockey Allsvenskan, Playoffs": "assets/logos/leagues/hockey-allsvenskan-playoffs.webp"
+        "Hockey Allsvenskan, Playoffs": "assets/logos/leagues/hockey-allsvenskan-playoffs.webp",
+        "Ireland Premier Division": "assets/logos/leagues/ireland-premier-division.webp"
     }
 }
