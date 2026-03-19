@@ -8248,7 +8248,12 @@
         "Northern Iowa Panthers": "assets/logos/upstreams/northern-iowa-panthers.webp",
         "Purdue Boilermakers": "assets/logos/upstreams/purdue-boilermakers.webp",
         "Kauno \u017dalgiris": "assets/logos/upstreams/kauno-\u017ealgiris.webp",
-        "Caen Basket Calvados": "assets/logos/upstreams/caen-basket-calvados.webp"
+        "Caen Basket Calvados": "assets/logos/upstreams/caen-basket-calvados.webp",
+        "PBC CSKA Moscow": "assets/logos/streamed/pbc-cska-moscow.webp",
+        "Sydney FC Women": "assets/logos/streamed/sydney-fc-women.webp",
+        "Wellington Phoenix Women": "assets/logos/streamed/wellington-phoenix-women.webp",
+        "Brisbane Roar FC Women": "assets/logos/streamed/brisbane-roar-fc-women.webp",
+        "Newcastle Jets Women": "assets/logos/streamed/newcastle-jets-women.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
