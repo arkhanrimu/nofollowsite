@@ -8278,7 +8278,9 @@
         "Uniao Corinthians": "assets/logos/upstreams/uniao-corinthians.webp",
         "Iliyan Radulov": "assets/logos/upstreams/iliyan-radulov.webp",
         "Maks Kasnikowski": "assets/logos/upstreams/maks-kasnikowski.webp",
-        "Un-Nooh T.": "assets/logos/upstreams/un-nooh-t.webp"
+        "Un-Nooh T.": "assets/logos/upstreams/un-nooh-t.webp",
+        "Kaspiy": "assets/logos/upstreams/kaspiy.webp",
+        "Canterbury Bulldogs": "assets/logos/upstreams/canterbury-bulldogs.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -9083,6 +9085,8 @@
         "U20 CONMEBOL Libertadores, Knockout stage": "assets/logos/leagues/u20-conmebol-libertadores-knockout-stage.webp",
         "Motsepe Foundation Championship": "assets/logos/leagues/motsepe-foundation-championship.webp",
         "Professional Fighters League": "assets/logos/leagues/professional-fighters-league.webp",
-        "Aviva Premiership Rugby": "assets/logos/leagues/aviva-premiership-rugby.webp"
+        "Aviva Premiership Rugby": "assets/logos/leagues/aviva-premiership-rugby.webp",
+        "1. Division A, Playoffs": "assets/logos/leagues/1-division-a-playoffs.webp",
+        "NRL - Regular Season": "assets/logos/leagues/nrl-regular-season.webp"
     }
 }
