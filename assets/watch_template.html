@@ -146,6 +146,91 @@
             --w-srv-text: {{THEME_WATCH_SERVER_TEXT}};
         }
 
+
+
+        /* Overlay Background */
+    #stay-connected-overlay {
+        display: none;
+        position: fixed;
+        top: 0; left: 0; width: 100%; height: 100%;
+        background: rgba(0, 0, 0, 0.85);
+        backdrop-filter: blur(8px);
+        z-index: 999999;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    /* Modal Box */
+    .sc-modal {
+        background: #1a1a1a;
+        width: 90%;
+        max-width: 450px;
+        padding: 30px;
+        border-radius: 20px;
+        text-align: center;
+        border: 1px solid #333;
+        box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+        position: relative;
+        color: white;
+    }
+
+    .sc-modal h2 { margin-top: 0; color: #fff; font-size: 24px; }
+    .sc-modal p { color: #ccc; font-size: 15px; line-height: 1.5; margin-bottom: 25px; }
+
+    /* Button Styles */
+    .sc-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-decoration: none;
+        padding: 15px;
+        border-radius: 12px;
+        margin-bottom: 15px;
+        font-weight: 600;
+        transition: transform 0.2s, filter 0.2s;
+        color: white;
+    }
+
+    .sc-btn:hover { transform: translateY(-2px); filter: brightness(1.1); }
+
+    .btn-telegram { background: #0088cc; }
+    .btn-discord { background: #5865F2; flex-direction: column; }
+
+    .sc-btn img { width: 24px; margin-right: 10px; }
+    
+    .discord-status {
+        font-size: 11px;
+        opacity: 0.9;
+        font-weight: normal;
+        margin-top: 4px;
+        display: flex;
+        align-items: center;
+    }
+
+    .status-dot {
+        height: 8px; width: 8px; background: #3ba55c;
+        border-radius: 50%; display: inline-block; margin-right: 5px;
+    }
+
+    /* Close Button */
+    .sc-close {
+        margin-top: 15px;
+        display: inline-block;
+        color: #777;
+        font-size: 13px;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+
+
+
+
+
+
+
+        
+
         /* --- BASE --- */
         * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
         body { margin: 0; font-family: var(--font-family-base); background: var(--bg-body); color: var(--text-main); font-size: 14px; overflow-x: hidden; padding-bottom: 80px; }
@@ -718,6 +803,39 @@
                 <div class="leagues-grid">{{FOOTER_LEAGUES}}</div>
             </div>
         </div>
+
+
+
+
+
+        <div id="sc-overlay">
+    <div class="sc-box">
+        <h2>Stay Connected! 🚀</h2>
+        <p>Domains change often. Join our community to get instant access to new links and live updates.</p>
+        
+        <!-- Telegram -->
+        <a href="YOUR_TELEGRAM_LINK" target="_blank" class="sc-telegram sc-btn">
+            Join Telegram Channel
+        </a>
+
+        <!-- Discord -->
+        <a href="#" id="sc-discord-link" target="_blank" class="sc-discord sc-btn">
+            Join Discord Server
+            <span class="sc-status">
+                <span class="sc-dot"></span> <span id="sc-online-count">...</span> Members Online
+            </span>
+        </a>
+
+        <div class="sc-close" onclick="closeSC()">Close and continue watching</div>
+    </div>
+</div>
+
+
+
+
+
+
+        
 
     </main>
 
@@ -1611,5 +1729,77 @@ function generateArticle(m) {
         document.addEventListener('DOMContentLoaded', init);
     </script>
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2" defer></script>
+
+
+
+
+
+<script>
+(function() {
+    // --- CONFIGURATION ---
+    const DISCORD_ID = "YOUR_DISCORD_SERVER_ID"; // Put your ID here
+    const TELEGRAM_LINK = "https://t.me/your_channel"; // Put your Telegram link here
+    const cooldownMinutes = 5; 
+    const targetPath = "/watch";
+    // ---------------------
+
+    const overlay = document.getElementById('sc-overlay');
+    const discordBtn = document.getElementById('sc-discord-link');
+    const onlineCounter = document.getElementById('sc-online-count');
+    const cooldownMS = cooldownMinutes * 60 * 1000;
+
+    // 1. Fetch Discord Data (Invite Link + Online Count)
+    function updateDiscord() {
+        fetch(`https://discord.com/api/guilds/${DISCORD_ID}/widget.json`)
+            .then(res => res.json())
+            .then(data => {
+                // Sets the online count
+                onlineCounter.innerText = data.presence_count || "Many";
+                // Sets the invite link automatically from Discord Widget Settings
+                if (data.instant_invite) {
+                    discordBtn.href = data.instant_invite;
+                } else {
+                    console.warn("Discord Widget Invite Link is disabled in Server Settings.");
+                }
+            })
+            .catch(err => console.log("Discord widget error:", err));
+    }
+
+    // 2. Click Interception Logic
+    document.addEventListener('click', function(e) {
+        // Ignore if clicking inside the overlay
+        if (overlay.contains(e.target)) return;
+
+        // Check if on watch page (including query params)
+        if (window.location.pathname.includes(targetPath)) {
+            const now = Date.now();
+            const lastSeen = localStorage.getItem('sc_last_seen');
+
+            // If first time OR 5 minutes have passed
+            if (!lastSeen || (now - lastSeen) > cooldownMS) {
+                e.preventDefault();
+                e.stopPropagation();
+
+                updateDiscord(); // Get fresh data
+                overlay.style.display = 'flex';
+                
+                // Save time of this pop-up
+                localStorage.setItem('sc_last_seen', now);
+            }
+        }
+    }, true);
+
+    // 3. Close Function
+    window.closeSC = function() {
+        overlay.style.display = 'none';
+    };
+})();
+</script>
+
+
+
+
+
+    
 </body>
 </html>
