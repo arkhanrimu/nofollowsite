@@ -148,80 +148,34 @@
 
 
 
-        /* Overlay Background */
-    #stay-connected-overlay {
-        display: none;
+       #sc-overlay {
+        display: none; /* Starts hidden so page is clickable */
         position: fixed;
         top: 0; left: 0; width: 100%; height: 100%;
-        background: rgba(0, 0, 0, 0.85);
-        backdrop-filter: blur(8px);
-        z-index: 999999;
+        background: rgba(0, 0, 0, 0.9);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        z-index: 2147483647; /* Sits on top of everything */
         justify-content: center;
         align-items: center;
-        font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-family: 'Segoe UI', sans-serif;
     }
-
-    /* Modal Box */
-    .sc-modal {
-        background: #1a1a1a;
-        width: 90%;
-        max-width: 450px;
-        padding: 30px;
-        border-radius: 20px;
-        text-align: center;
-        border: 1px solid #333;
-        box-shadow: 0 20px 50px rgba(0,0,0,0.5);
-        position: relative;
-        color: white;
+    /* Modal Box Styles */
+    .sc-box {
+        background: #111; width: 90%; max-width: 400px; padding: 40px 20px;
+        border-radius: 24px; text-align: center; border: 1px solid #333;
+        color: white; box-shadow: 0 0 30px rgba(88, 101, 242, 0.2);
     }
-
-    .sc-modal h2 { margin-top: 0; color: #fff; font-size: 24px; }
-    .sc-modal p { color: #ccc; font-size: 15px; line-height: 1.5; margin-bottom: 25px; }
-
-    /* Button Styles */
     .sc-btn {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        text-decoration: none;
-        padding: 15px;
-        border-radius: 12px;
-        margin-bottom: 15px;
-        font-weight: 600;
-        transition: transform 0.2s, filter 0.2s;
-        color: white;
+        display: block; text-decoration: none; padding: 16px;
+        border-radius: 12px; margin-bottom: 12px; font-weight: bold;
+        color: white; transition: 0.3s;
     }
-
-    .sc-btn:hover { transform: translateY(-2px); filter: brightness(1.1); }
-
-    .btn-telegram { background: #0088cc; }
-    .btn-discord { background: #5865F2; flex-direction: column; }
-
-    .sc-btn img { width: 24px; margin-right: 10px; }
-    
-    .discord-status {
-        font-size: 11px;
-        opacity: 0.9;
-        font-weight: normal;
-        margin-top: 4px;
-        display: flex;
-        align-items: center;
-    }
-
-    .status-dot {
-        height: 8px; width: 8px; background: #3ba55c;
-        border-radius: 50%; display: inline-block; margin-right: 5px;
-    }
-
-    /* Close Button */
-    .sc-close {
-        margin-top: 15px;
-        display: inline-block;
-        color: #777;
-        font-size: 13px;
-        cursor: pointer;
-        text-decoration: underline;
-    }
+    .sc-telegram { background: #0088cc; }
+    .sc-discord { background: #5865F2; }
+    .sc-status { display: block; font-size: 12px; opacity: 0.8; margin-top: 5px; }
+    .sc-dot { height: 8px; width: 8px; background: #3ba55c; border-radius: 50%; display: inline-block; }
+    .sc-close { margin-top: 20px; cursor: pointer; color: #666; font-size: 13px; text-decoration: underline; }
 
 
 
@@ -808,7 +762,8 @@
 
 
 
-        <div id="sc-overlay">
+        <!-- CORRECTED OVERLAY HTML -->
+<div id="sc-overlay" style="display: none;">
     <div class="sc-box">
         <h2>Stay Connected! 🚀</h2>
         <p>Domains change often. Join our community to get instant access to new links and live updates.</p>
@@ -819,17 +774,16 @@
         </a>
 
         <!-- Discord -->
-        <a href="#" id="sc-discord-link" target="_blank" class="sc-discord sc-btn">
+        <a href="#" id="sc-discord-link-new" target="_blank" class="sc-discord sc-btn">
             Join Discord Server
             <span class="sc-status">
-                <span class="sc-dot"></span> <span id="sc-online-count">...</span> Members Online
+                <span class="sc-dot"></span> <span id="sc-online-count-new">...</span> Members Online
             </span>
         </a>
 
         <div class="sc-close" onclick="closeSC()">Close and continue watching</div>
     </div>
 </div>
-
 
 
 
@@ -1736,48 +1690,58 @@ function generateArticle(m) {
 
 <script>
 (function() {
-    // --- CONFIG ---
-    const DISCORD_ID = "YOUR_DISCORD_SERVER_ID"; 
-    const COOLDOWN_MIN = 5;
-    // --------------
+    // --- CONFIGURATION ---
+    const DISCORD_ID = "YOUR_DISCORD_SERVER_ID"; // Replace with your actual ID
+    const COOLDOWN_MIN = 5; // 5 minute reset
+    const TARGET_PATH = "/watch"; 
+    // ---------------------
 
-    const wrapper = document.getElementById('site-notice-wrapper');
+    const overlay = document.getElementById('sc-overlay');
+    const cooldownMS = COOLDOWN_MIN * 60 * 1000;
 
-    function loadDiscord() {
+    // Function to fetch Discord Data
+    function updateDiscordData() {
         fetch(`https://discord.com/api/guilds/${DISCORD_ID}/widget.json`)
-            .then(r => r.json())
+            .then(res => res.json())
             .then(data => {
-                document.getElementById('dc-online').innerText = data.presence_count || "Join Now";
-                if(data.instant_invite) document.getElementById('dc-btn-link').href = data.instant_invite;
-            }).catch(e => console.log("DC Error"));
+                const countEl = document.getElementById('sc-online-count-new');
+                const linkEl = document.getElementById('sc-discord-link-new');
+                if(countEl) countEl.innerText = data.presence_count || "Many";
+                if(linkEl && data.instant_invite) linkEl.href = data.instant_invite;
+            }).catch(e => console.log("Discord widget disabled or error."));
     }
 
-    // Force show overlay for testing (Uncomment the line below to test if it appears at all)
-    // wrapper.style.display = 'flex'; loadDiscord();
-
+    // Handle Clicks
     document.addEventListener('click', function(e) {
-        // 1. If we are already inside the overlay, do nothing
-        if (wrapper.contains(e.target)) return;
+        // If clicking inside the modal or if modal is already open, don't trigger
+        if (overlay.style.display === 'flex' || overlay.contains(e.target)) return;
 
-        // 2. Check path (Using 'watch' to be safe for all subpages)
-        if (window.location.pathname.toLowerCase().indexOf('watch') > -1) {
-            
+        // Check if on watch page
+        if (window.location.pathname.toLowerCase().includes(TARGET_PATH)) {
             const now = Date.now();
-            const lastPop = localStorage.getItem('last_notice_time');
-            const cooldown = COOLDOWN_MIN * 60 * 1000;
+            const lastPop = localStorage.getItem('sc_last_seen_time');
 
-            if (!lastPop || (now - lastPop) > cooldown) {
-                // Trigger Overlay
+            // Logic: No lastPop OR 5 minutes have passed
+            if (!lastPop || (now - lastPop) > cooldownMS) {
+                
+                // Show Overlay
+                overlay.style.display = 'flex';
+                updateDiscordData();
+                
+                // Save time
+                localStorage.setItem('sc_last_seen_time', now);
+                
+                // Block the original click so user must see the overlay
                 e.preventDefault();
                 e.stopPropagation();
-                
-                loadDiscord();
-                wrapper.style.display = 'flex';
-                
-                localStorage.setItem('last_notice_time', now);
             }
         }
-    }, true);
+    }, true); // Use capture phase to ensure we catch the click first
+
+    // Function to close
+    window.closeSC = function() {
+        overlay.style.display = 'none';
+    };
 })();
 </script>
 
