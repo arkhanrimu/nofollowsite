@@ -8554,7 +8554,24 @@
         "Karlovy Vary": "assets/logos/upstreams/karlovy-vary.webp",
         "New South Wales W": "assets/logos/upstreams/new-south-wales-w.webp",
         "Queensland Fire W": "assets/logos/upstreams/queensland-fire-w.webp",
-        "Jakub Men\u0161ik": "assets/logos/upstreams/jakub-men\u0161ik.webp"
+        "Jakub Men\u0161ik": "assets/logos/upstreams/jakub-men\u0161ik.webp",
+        "Gen\u00e8ve LPLO": "assets/logos/upstreams/gen\u00e8ve-lplo.webp",
+        "TED Ankara Kolejliler": "assets/logos/upstreams/ted-ankara-kolejliler.webp",
+        "Swarco Raiders": "assets/logos/upstreams/swarco-raiders.webp",
+        "Mladost SP": "assets/logos/upstreams/mladost-sp.webp",
+        "Gijon": "assets/logos/upstreams/gijon.webp",
+        "MEastre": "assets/logos/upstreams/meastre.webp",
+        "Rinascita Basket Rimini": "assets/logos/upstreams/rinascita-basket-rimini.webp",
+        "Castello": "assets/logos/upstreams/castello.webp",
+        "Indios de Mayag\u00fcez": "assets/logos/upstreams/indios-de-mayag\u00fcez.webp",
+        "Leones de Ponce": "assets/logos/upstreams/leones-de-ponce.webp",
+        "Fribourg U23": "assets/logos/upstreams/fribourg-u23.webp",
+        "San Miguel Beermen": "assets/logos/upstreams/san-miguel-beermen.webp",
+        "Phoenix Fuel Masters": "assets/logos/upstreams/phoenix-fuel-masters.webp",
+        "Natalie Oliver": "assets/logos/upstreams/natalie-oliver.webp",
+        "Wei Xu": "assets/logos/upstreams/wei-xu.webp",
+        "Polina Buhrova": "assets/logos/upstreams/polina-buhrova.webp",
+        "Hyuga Takano": "assets/logos/upstreams/hyuga-takano.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -9421,6 +9438,13 @@
         "Turkey KBSL, Women, Playoffs": "assets/logos/leagues/turkey-kbsl-women-playoffs.webp",
         "Sweden - Leaguen - Playoff": "assets/logos/leagues/sweden-leaguen-playoff.webp",
         "China - League 2": "assets/logos/leagues/china-league-2.webp",
-        "UTR PTT Boca Raton Women 04, 1-4 Playoff": "assets/logos/leagues/utr-ptt-boca-raton-women-04-1-4-playoff.webp"
+        "UTR PTT Boca Raton Women 04, 1-4 Playoff": "assets/logos/leagues/utr-ptt-boca-raton-women-04-1-4-playoff.webp",
+        "Zweite Liga, Playoffs": "assets/logos/leagues/zweite-liga-playoffs.webp",
+        "Swiss - NLA - Playout": "assets/logos/leagues/swiss-nla-playout.webp",
+        "UTR PTT Boca Raton Women 04, 9-12 Playoff": "assets/logos/leagues/utr-ptt-boca-raton-women-04-9-12-playoff.webp",
+        "Puerto Rico BSN": "assets/logos/leagues/puerto-rico-bsn.webp",
+        "UTR PTT Moraga Men +H 01, 1-4 Playoff": "assets/logos/leagues/utr-ptt-moraga-men-h-01-1-4-playoff.webp",
+        "UTR PTT Moraga Men +H 01, 5-8 Playoff": "assets/logos/leagues/utr-ptt-moraga-men-h-01-5-8-playoff.webp",
+        "UTR PTT Boca Raton Women 04, 13-16 Playoff": "assets/logos/leagues/utr-ptt-boca-raton-women-04-13-16-playoff.webp"
     }
 }
