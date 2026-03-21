@@ -1736,63 +1736,48 @@ function generateArticle(m) {
 
 <script>
 (function() {
-    // --- CONFIGURATION ---
-    const DISCORD_ID = "1422384816472457288"; // Put your ID here
-    const TELEGRAM_LINK = "https://t.me/Sports_Streams247"; // Put your Telegram link here
-    const cooldownMinutes = 5; 
-    const targetPath = "/watch";
-    // ---------------------
+    // --- CONFIG ---
+    const DISCORD_ID = "YOUR_DISCORD_SERVER_ID"; 
+    const COOLDOWN_MIN = 5;
+    // --------------
 
-    const overlay = document.getElementById('sc-overlay');
-    const discordBtn = document.getElementById('sc-discord-link');
-    const onlineCounter = document.getElementById('sc-online-count');
-    const cooldownMS = cooldownMinutes * 60 * 1000;
+    const wrapper = document.getElementById('site-notice-wrapper');
 
-    // 1. Fetch Discord Data (Invite Link + Online Count)
-    function updateDiscord() {
+    function loadDiscord() {
         fetch(`https://discord.com/api/guilds/${DISCORD_ID}/widget.json`)
-            .then(res => res.json())
+            .then(r => r.json())
             .then(data => {
-                // Sets the online count
-                onlineCounter.innerText = data.presence_count || "Many";
-                // Sets the invite link automatically from Discord Widget Settings
-                if (data.instant_invite) {
-                    discordBtn.href = data.instant_invite;
-                } else {
-                    console.warn("Discord Widget Invite Link is disabled in Server Settings.");
-                }
-            })
-            .catch(err => console.log("Discord widget error:", err));
+                document.getElementById('dc-online').innerText = data.presence_count || "Join Now";
+                if(data.instant_invite) document.getElementById('dc-btn-link').href = data.instant_invite;
+            }).catch(e => console.log("DC Error"));
     }
 
-    // 2. Click Interception Logic
+    // Force show overlay for testing (Uncomment the line below to test if it appears at all)
+    // wrapper.style.display = 'flex'; loadDiscord();
+
     document.addEventListener('click', function(e) {
-        // Ignore if clicking inside the overlay
-        if (overlay.contains(e.target)) return;
+        // 1. If we are already inside the overlay, do nothing
+        if (wrapper.contains(e.target)) return;
 
-        // Check if on watch page (including query params)
-        if (window.location.pathname.includes(targetPath)) {
+        // 2. Check path (Using 'watch' to be safe for all subpages)
+        if (window.location.pathname.toLowerCase().indexOf('watch') > -1) {
+            
             const now = Date.now();
-            const lastSeen = localStorage.getItem('sc_last_seen');
+            const lastPop = localStorage.getItem('last_notice_time');
+            const cooldown = COOLDOWN_MIN * 60 * 1000;
 
-            // If first time OR 5 minutes have passed
-            if (!lastSeen || (now - lastSeen) > cooldownMS) {
+            if (!lastPop || (now - lastPop) > cooldown) {
+                // Trigger Overlay
                 e.preventDefault();
                 e.stopPropagation();
-
-                updateDiscord(); // Get fresh data
-                overlay.style.display = 'flex';
                 
-                // Save time of this pop-up
-                localStorage.setItem('sc_last_seen', now);
+                loadDiscord();
+                wrapper.style.display = 'flex';
+                
+                localStorage.setItem('last_notice_time', now);
             }
         }
     }, true);
-
-    // 3. Close Function
-    window.closeSC = function() {
-        overlay.style.display = 'none';
-    };
 })();
 </script>
 
