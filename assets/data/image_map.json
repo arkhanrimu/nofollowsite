@@ -8577,7 +8577,16 @@
         "FC Fleury 91": "assets/logos/upstreams/fc-fleury-91.webp",
         "OL Lyonnes": "assets/logos/upstreams/ol-lyonnes.webp",
         "Illinois Fighting Illini": "assets/logos/upstreams/illinois-fighting-illini.webp",
-        "Arkansas Razorbacks": "assets/logos/upstreams/arkansas-razorbacks.webp"
+        "Arkansas Razorbacks": "assets/logos/upstreams/arkansas-razorbacks.webp",
+        "IF Elfsborg": "assets/logos/upstreams/if-elfsborg.webp",
+        "Brillantes del Zulia": "assets/logos/upstreams/brillantes-del-zulia.webp",
+        "Pioneros del Avila": "assets/logos/upstreams/pioneros-del-avila.webp",
+        "Ottawa Charge": "assets/logos/upstreams/ottawa-charge.webp",
+        "Montreal Victoire": "assets/logos/upstreams/montreal-victoire.webp",
+        "Wilhelm Saiga": "assets/logos/upstreams/wilhelm-saiga.webp",
+        "Edinburgh Rugby": "assets/logos/upstreams/edinburgh-rugby.webp",
+        "Ross Smith": "assets/logos/upstreams/ross-smith.webp",
+        "Cameron Menzies": "assets/logos/upstreams/cameron-menzies.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -9458,6 +9467,10 @@
         "UTR PTT Moraga Men +H 01, 17-20 Playoff": "assets/logos/leagues/utr-ptt-moraga-men-h-01-17-20-playoff.webp",
         "UTR PTT Newport Beach Men 06, 1-4 Playoff": "assets/logos/leagues/utr-ptt-newport-beach-men-06-1-4-playoff.webp",
         "UTR PTT Newport Beach Women 06, 1-4 Playoff": "assets/logos/leagues/utr-ptt-newport-beach-women-06-1-4-playoff.webp",
-        "UTR PTT Moraga Men +H 01, 9-12 Playoff": "assets/logos/leagues/utr-ptt-moraga-men-h-01-9-12-playoff.webp"
+        "UTR PTT Moraga Men +H 01, 9-12 Playoff": "assets/logos/leagues/utr-ptt-moraga-men-h-01-9-12-playoff.webp",
+        "Club Friendly Games": "assets/logos/leagues/club-friendly-games.webp",
+        "UTR PTT Newport Beach Men 06, 5-8 Playoff": "assets/logos/leagues/utr-ptt-newport-beach-men-06-5-8-playoff.webp",
+        "UTR PTT Newport Beach Women 06, 5-8 Playoff": "assets/logos/leagues/utr-ptt-newport-beach-women-06-5-8-playoff.webp",
+        "UTR PTT Newport Beach Women 06, 9-12 Playoff": "assets/logos/leagues/utr-ptt-newport-beach-women-06-9-12-playoff.webp"
     }
 }
