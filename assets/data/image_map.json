@@ -8644,7 +8644,12 @@
         "Alec Deckers": "assets/logos/upstreams/alec-deckers.webp",
         "Kasidit Samrej": "assets/logos/upstreams/kasidit-samrej.webp",
         "Carl Emil Overbeck": "assets/logos/upstreams/carl-emil-overbeck.webp",
-        "Lloyd Harris": "assets/logos/upstreams/lloyd-harris.webp"
+        "Lloyd Harris": "assets/logos/upstreams/lloyd-harris.webp",
+        "Jakub Paul": "assets/logos/upstreams/jakub-paul.webp",
+        "Mariano Tammaro": "assets/logos/upstreams/mariano-tammaro.webp",
+        "Giuseppe La Vela": "assets/logos/upstreams/giuseppe-la-vela.webp",
+        "Abedallah Shelbayh": "assets/logos/upstreams/abedallah-shelbayh.webp",
+        "Andrej Nedi\u0107": "assets/logos/upstreams/andrej-nedi\u0107.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -9546,6 +9551,11 @@
         "Morelia, Mexico, Qualifying": "assets/logos/leagues/morelia-mexico-qualifying.webp",
         "First League": "assets/logos/leagues/first-league.webp",
         "Yokkaichi, Japan": "assets/logos/leagues/yokkaichi-japan.webp",
-        "UTR PTT Trnava Men 03, Group A": "assets/logos/leagues/utr-ptt-trnava-men-03-group-a.webp"
+        "UTR PTT Trnava Men 03, Group A": "assets/logos/leagues/utr-ptt-trnava-men-03-group-a.webp",
+        "Naples, Italy, Qualifying": "assets/logos/leagues/naples-italy-qualifying.webp",
+        "Split, Croatia, Qualifying": "assets/logos/leagues/split-croatia-qualifying.webp",
+        "UTR PTT Trnava Men 03, Group B": "assets/logos/leagues/utr-ptt-trnava-men-03-group-b.webp",
+        "Naples, Italy": "assets/logos/leagues/naples-italy.webp",
+        "Split, Croatia": "assets/logos/leagues/split-croatia.webp"
     }
 }
