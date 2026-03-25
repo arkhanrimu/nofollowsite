@@ -8802,7 +8802,12 @@
         "Equatorial Guinea": "assets/logos/streamed/equatorial-guinea.webp",
         "Sportivo Barracas": "assets/logos/streamed/sportivo-barracas.webp",
         "Real Pilar": "assets/logos/streamed/real-pilar.webp",
-        "Moldova": "assets/logos/streamed/moldova.webp"
+        "Moldova": "assets/logos/streamed/moldova.webp",
+        "Gibraltar": "assets/logos/streamed/gibraltar.webp",
+        "Malta": "assets/logos/streamed/malta.webp",
+        "Bosnia-Herzegovina": "assets/logos/streamed/bosnia-herzegovina.webp",
+        "Kosovo": "assets/logos/streamed/kosovo.webp",
+        "N.Ireland": "assets/logos/streamed/nireland.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -9725,6 +9730,7 @@
         "UTR PTT Umag Men 01, Group D": "assets/logos/leagues/utr-ptt-umag-men-01-group-d.webp",
         "UTR PTT Umag Men 01, Group A": "assets/logos/leagues/utr-ptt-umag-men-01-group-a.webp",
         "Friendly International": "assets/logos/leagues/friendly-international.webp",
-        "Challenge Cup": "assets/logos/leagues/challenge-cup.webp"
+        "Challenge Cup": "assets/logos/leagues/challenge-cup.webp",
+        "USA - MLB": "assets/logos/leagues/usa-mlb.webp"
     }
 }
