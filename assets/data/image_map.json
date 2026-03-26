@@ -8989,7 +8989,9 @@
         "Gabriela Andrea Knutson": "assets/logos/upstreams/gabriela-andrea-knutson.webp",
         "Gibraltar U21": "assets/logos/upstreams/gibraltar-u21.webp",
         "RSU/VEF Riga": "assets/logos/upstreams/rsuvef-riga.webp",
-        "Peter Buldorini": "assets/logos/upstreams/peter-buldorini.webp"
+        "Peter Buldorini": "assets/logos/upstreams/peter-buldorini.webp",
+        "Qalandars": "assets/logos/upstreams/qalandars.webp",
+        "Kingsmen": "assets/logos/upstreams/kingsmen.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -9949,6 +9951,7 @@
         "UTR PTT Boca Raton Men 03, Group A": "assets/logos/leagues/utr-ptt-boca-raton-men-03-group-a.webp",
         "Elite League U20": "assets/logos/leagues/elite-league-u20.webp",
         "NRL": "assets/logos/leagues/nrl.webp",
-        "U21 EURO, Qualification, Group B": "assets/logos/leagues/u21-euro-qualification-group-b.webp"
+        "U21 EURO, Qualification, Group B": "assets/logos/leagues/u21-euro-qualification-group-b.webp",
+        "Cricket Pakistan League": "assets/logos/leagues/cricket-pakistan-league.webp"
     }
 }
