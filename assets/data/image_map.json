@@ -9025,7 +9025,10 @@
         "Botswana": "assets/logos/streamed/botswana.webp",
         "Peru": "assets/logos/streamed/peru.webp",
         "Joe Pyfer": "assets/logos/streamed/joe-pyfer.webp",
-        "Israel Adesanya": "assets/logos/streamed/israel-adesanya.webp"
+        "Israel Adesanya": "assets/logos/streamed/israel-adesanya.webp",
+        "ZED": "assets/logos/upstreams/zed.webp",
+        "Arab Contractors": "assets/logos/upstreams/arab-contractors.webp",
+        "Keravnos": "assets/logos/upstreams/keravnos.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -9986,6 +9989,8 @@
         "Elite League U20": "assets/logos/leagues/elite-league-u20.webp",
         "NRL": "assets/logos/leagues/nrl.webp",
         "U21 EURO, Qualification, Group B": "assets/logos/leagues/u21-euro-qualification-group-b.webp",
-        "Cricket Pakistan League": "assets/logos/leagues/cricket-pakistan-league.webp"
+        "Cricket Pakistan League": "assets/logos/leagues/cricket-pakistan-league.webp",
+        "Cyprus Basketball Division A, Championship Round": "assets/logos/leagues/cyprus-basketball-division-a-championship-round.webp",
+        "Cyprus Basketball": "assets/logos/leagues/cyprus-basketball.webp"
     }
 }
