@@ -9029,7 +9029,10 @@
         "ZED": "assets/logos/upstreams/zed.webp",
         "Arab Contractors": "assets/logos/upstreams/arab-contractors.webp",
         "Keravnos": "assets/logos/upstreams/keravnos.webp",
-        "Dartmouth Big Green": "assets/logos/upstreams/dartmouth-big-green.webp"
+        "Dartmouth Big Green": "assets/logos/upstreams/dartmouth-big-green.webp",
+        "Castleford": "assets/logos/upstreams/castleford.webp",
+        "Azerbaijan U21": "assets/logos/upstreams/azerbaijan-u21.webp",
+        "Portugal U21": "assets/logos/upstreams/portugal-u21.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
