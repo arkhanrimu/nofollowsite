@@ -9205,7 +9205,16 @@
         "Bagdala (W)": "assets/logos/upstreams/bagdala-w.webp",
         "North Carolina W": "assets/logos/upstreams/north-carolina-w.webp",
         "Hull K R": "assets/logos/upstreams/hull-k-r.webp",
-        "Wakefield Trinity": "assets/logos/upstreams/wakefield-trinity.webp"
+        "Wakefield Trinity": "assets/logos/upstreams/wakefield-trinity.webp",
+        "Adirondack Thunder": "assets/logos/streamed/adirondack-thunder.webp",
+        "Wheeling Nailers": "assets/logos/streamed/wheeling-nailers.webp",
+        "Savannah": "assets/logos/streamed/savannah.webp",
+        "Iowa Heartlanders": "assets/logos/streamed/iowa-heartlanders.webp",
+        "Idaho Steelheads": "assets/logos/streamed/idaho-steelheads.webp",
+        "South Carolina Stingrays": "assets/logos/streamed/south-carolina-stingrays.webp",
+        "Tahoe Knight Monsters": "assets/logos/streamed/tahoe-knight-monsters.webp",
+        "Rapid City Rush": "assets/logos/streamed/rapid-city-rush.webp",
+        "Asuncion Nacional": "assets/logos/upstreams/asuncion-nacional.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -10214,6 +10223,8 @@
         "Betfred Super League": "assets/logos/leagues/betfred-super-league.webp",
         "UTR PTT Trnava Men 03, 17-20 Playoff": "assets/logos/leagues/utr-ptt-trnava-men-03-17-20-playoff.webp",
         "UTR PTT Umag Men 01, 1-4 Playoff": "assets/logos/leagues/utr-ptt-umag-men-01-1-4-playoff.webp",
-        "UTR PTT Umag Men 01, 5-8 Playoff": "assets/logos/leagues/utr-ptt-umag-men-01-5-8-playoff.webp"
+        "UTR PTT Umag Men 01, 5-8 Playoff": "assets/logos/leagues/utr-ptt-umag-men-01-5-8-playoff.webp",
+        "UTR PTT Trnava Men 03, 1-4 Playoff": "assets/logos/leagues/utr-ptt-trnava-men-03-1-4-playoff.webp",
+        "MLB Baseball": "assets/logos/leagues/mlb-baseball.webp"
     }
 }
