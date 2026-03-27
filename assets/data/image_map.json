@@ -9155,7 +9155,8 @@
         "Viktoria Hruncakova": "assets/logos/upstreams/viktoria-hruncakova.webp",
         "Electrico": "assets/logos/upstreams/electrico.webp",
         "Fabia Sintes": "assets/logos/upstreams/fabia-sintes.webp",
-        "Abdul Karim Badakhshi": "assets/logos/upstreams/abdul-karim-badakhshi.webp"
+        "Abdul Karim Badakhshi": "assets/logos/upstreams/abdul-karim-badakhshi.webp",
+        "HJK": "assets/logos/upstreams/hjk.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -10145,6 +10146,7 @@
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
         "EHF - European Cup (W)": "assets/logos/leagues/ehf-european-cup-w.webp",
         "Basketball African League": "assets/logos/leagues/basketball-african-league.webp",
-        "Way of Warrior": "assets/logos/leagues/way-of-warrior.webp"
+        "Way of Warrior": "assets/logos/leagues/way-of-warrior.webp",
+        "MMA": "assets/logos/leagues/mma.webp"
     }
 }
