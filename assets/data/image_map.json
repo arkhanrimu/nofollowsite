@@ -9192,7 +9192,9 @@
         "Kataja Basket": "assets/logos/upstreams/kataja-basket.webp",
         "Bhantal FC": "assets/logos/upstreams/bhantal-fc.webp",
         "Bullom Stars FC": "assets/logos/upstreams/bullom-stars-fc.webp",
-        "Old Edwardians FC": "assets/logos/upstreams/old-edwardians-fc.webp"
+        "Old Edwardians FC": "assets/logos/upstreams/old-edwardians-fc.webp",
+        "KeuPa HT": "assets/logos/upstreams/keupa-ht.webp",
+        "Haukat": "assets/logos/upstreams/haukat.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -10189,6 +10191,8 @@
         "U19 UEFA European Championship, Elite round Gr. 5": "assets/logos/leagues/u19-uefa-european-championship-elite-round-gr-5.webp",
         "Greece Basketball League": "assets/logos/leagues/greece-basketball-league.webp",
         "U19 UEFA European Championship, Elite round Gr. 4": "assets/logos/leagues/u19-uefa-european-championship-elite-round-gr-4.webp",
-        "Africa Cup of Nations, Qualification, Preliminary": "assets/logos/leagues/africa-cup-of-nations-qualification-preliminary.webp"
+        "Africa Cup of Nations, Qualification, Preliminary": "assets/logos/leagues/africa-cup-of-nations-qualification-preliminary.webp",
+        "Tipsport Liga, Relegation/Promotion round ": "assets/logos/leagues/tipsport-liga-relegationpromotion-round.webp",
+        "Mestis Promotion/Relegation": "assets/logos/leagues/mestis-promotionrelegation.webp"
     }
 }
