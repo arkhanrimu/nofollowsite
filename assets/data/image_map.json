@@ -9665,7 +9665,9 @@
         "Lewie Lane": "assets/logos/upstreams/lewie-lane.webp",
         "Agua Caliente Clippers": "assets/logos/upstreams/agua-caliente-clippers.webp",
         "Sergio Planella Hernandez": "assets/logos/upstreams/sergio-planella-hernandez.webp",
-        "Henry Lieberman": "assets/logos/upstreams/henry-lieberman.webp"
+        "Henry Lieberman": "assets/logos/upstreams/henry-lieberman.webp",
+        "Kathleen Kanev": "assets/logos/upstreams/kathleen-kanev.webp",
+        "Sinead Lohan": "assets/logos/upstreams/sinead-lohan.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -10772,6 +10774,7 @@
         "UTR PTT Nashville Men +H 01, Group D": "assets/logos/leagues/utr-ptt-nashville-men-h-01-group-d.webp",
         "ATP Bucharest": "assets/logos/leagues/atp-bucharest.webp",
         "ATP Marrakech": "assets/logos/leagues/atp-marrakech.webp",
-        "ATP Houston": "assets/logos/leagues/atp-houston.webp"
+        "ATP Houston": "assets/logos/leagues/atp-houston.webp",
+        "UTR PTT Carvoeiro Women +H 05, Group A": "assets/logos/leagues/utr-ptt-carvoeiro-women-h-05-group-a.webp"
     }
 }
