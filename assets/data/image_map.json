@@ -10386,7 +10386,11 @@
         "Michaela Bayerlova": "assets/logos/upstreams/michaela-bayerlova.webp",
         "Tenika Mcgiffin": "assets/logos/upstreams/tenika-mcgiffin.webp",
         "Lea Tholey": "assets/logos/upstreams/lea-tholey.webp",
-        "Lucio Ratti": "assets/logos/upstreams/lucio-ratti.webp"
+        "Lucio Ratti": "assets/logos/upstreams/lucio-ratti.webp",
+        "Daniel Lara Salmeron": "assets/logos/upstreams/daniel-lara-salmeron.webp",
+        "Ryan Colby": "assets/logos/upstreams/ryan-colby.webp",
+        "Benjamin Kittay": "assets/logos/upstreams/benjamin-kittay.webp",
+        "Teodor Davidov": "assets/logos/upstreams/teodor-davidov.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -11652,6 +11656,7 @@
         "Pro League, Conference League Playoffs": "assets/logos/leagues/pro-league-conference-league-playoffs.webp",
         "ATP Monte Carlo": "assets/logos/leagues/atp-monte-carlo.webp",
         "Madrid, Spain, Qualifying": "assets/logos/leagues/madrid-spain-qualifying.webp",
-        "Campinas, Brazil, Qualifying": "assets/logos/leagues/campinas-brazil-qualifying.webp"
+        "Campinas, Brazil, Qualifying": "assets/logos/leagues/campinas-brazil-qualifying.webp",
+        "Sarasota, USA, Qualifying": "assets/logos/leagues/sarasota-usa-qualifying.webp"
     }
 }
