@@ -10642,7 +10642,17 @@
         "Destanee Aiava": "assets/logos/upstreams/destanee-aiava.webp",
         "Christina Dodaj": "assets/logos/upstreams/christina-dodaj.webp",
         "PSBS Biak": "assets/logos/upstreams/psbs-biak.webp",
-        "Jahnie van Zyl": "assets/logos/upstreams/jahnie-van-zyl.webp"
+        "Jahnie van Zyl": "assets/logos/upstreams/jahnie-van-zyl.webp",
+        "Polonia Warszawa": "assets/logos/upstreams/polonia-warszawa.webp",
+        "Koge": "assets/logos/upstreams/koge.webp",
+        "Luca Connaughton": "assets/logos/upstreams/luca-connaughton.webp",
+        "Jeremy Beale": "assets/logos/upstreams/jeremy-beale.webp",
+        "Noah Brownrigg": "assets/logos/upstreams/noah-brownrigg.webp",
+        "Hugo Castello": "assets/logos/upstreams/hugo-castello.webp",
+        "Jordan Chiu": "assets/logos/upstreams/jordan-chiu.webp",
+        "Lily Stohl": "assets/logos/upstreams/lily-stohl.webp",
+        "Britney Chiu": "assets/logos/upstreams/britney-chiu.webp",
+        "Avery Nguyen": "assets/logos/upstreams/avery-nguyen.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -11953,6 +11963,8 @@
         "Cup Billie Jean King": "assets/logos/leagues/cup-billie-jean-king.webp",
         "World Cup 2026 - Qualifiers": "assets/logos/leagues/world-cup-2026-qualifiers.webp",
         "UTR PTT Melbourne Men 01, Group B": "assets/logos/leagues/utr-ptt-melbourne-men-01-group-b.webp",
-        "UTR PTT Melbourne Women 01, Group A": "assets/logos/leagues/utr-ptt-melbourne-women-01-group-a.webp"
+        "UTR PTT Melbourne Women 01, Group A": "assets/logos/leagues/utr-ptt-melbourne-women-01-group-a.webp",
+        "Norway Eliteserien": "assets/logos/leagues/norway-eliteserien.webp",
+        "UTR PTT Melbourne Men 01, Group D": "assets/logos/leagues/utr-ptt-melbourne-men-01-group-d.webp"
     }
 }
