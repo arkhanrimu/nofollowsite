@@ -10567,7 +10567,10 @@
         "Leonardo Iemmi": "assets/logos/upstreams/leonardo-iemmi.webp",
         "Chorale Roanne Basket": "assets/logos/upstreams/chorale-roanne-basket.webp",
         "ALM \u00c9vreux Basket": "assets/logos/upstreams/alm-\u00e9vreux-basket.webp",
-        "Elan B\u00e9arnais Pau-Lacq-Orthez": "assets/logos/upstreams/elan-b\u00e9arnais-pau-lacq-orthez.webp"
+        "Elan B\u00e9arnais Pau-Lacq-Orthez": "assets/logos/upstreams/elan-b\u00e9arnais-pau-lacq-orthez.webp",
+        "Luciano Carraro": "assets/logos/upstreams/luciano-carraro.webp",
+        "Juan Bautista Otegui": "assets/logos/upstreams/juan-bautista-otegui.webp",
+        "Enzo Rimoli": "assets/logos/upstreams/enzo-rimoli.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -11867,6 +11870,8 @@
         "Linz, Austria": "assets/logos/leagues/linz-austria.webp",
         "Mexico City, Mexico": "assets/logos/leagues/mexico-city-mexico.webp",
         "Campinas, Brazil": "assets/logos/leagues/campinas-brazil.webp",
-        "Sarasota, USA": "assets/logos/leagues/sarasota-usa.webp"
+        "Sarasota, USA": "assets/logos/leagues/sarasota-usa.webp",
+        "UTR PTT Cordoba Men +H 03, Group B": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-b.webp",
+        "UTR PTT Cordoba Men +H 03, Group C": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-c.webp"
     }
 }
