@@ -11371,7 +11371,12 @@
         "Dunav Stari Banovci": "assets/logos/upstreams/dunav-stari-banovci.webp",
         "AFS": "assets/logos/upstreams/afs.webp",
         "Burton": "assets/logos/upstreams/burton.webp",
-        "Raith": "assets/logos/upstreams/raith.webp"
+        "Raith": "assets/logos/upstreams/raith.webp",
+        "Espoir Tsevie": "assets/logos/upstreams/espoir-tsevie.webp",
+        "Tom Ford": "assets/logos/upstreams/tom-ford.webp",
+        "Gao Yang": "assets/logos/upstreams/gao-yang.webp",
+        "Zamarat (W)": "assets/logos/upstreams/zamarat-w.webp",
+        "Lima-Horta Barcelona (W)": "assets/logos/upstreams/lima-horta-barcelona-w.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -12796,6 +12801,7 @@
         "Italy Serie B": "assets/logos/leagues/italy-serie-b.webp",
         "Munich, Germany, Qualifying": "assets/logos/leagues/munich-germany-qualifying.webp",
         "Rouen, France, Qualifying": "assets/logos/leagues/rouen-france-qualifying.webp",
-        "Stuttgart, Germany, Qualifying": "assets/logos/leagues/stuttgart-germany-qualifying.webp"
+        "Stuttgart, Germany, Qualifying": "assets/logos/leagues/stuttgart-germany-qualifying.webp",
+        "Halo World Championship": "assets/logos/leagues/halo-world-championship.webp"
     }
 }
