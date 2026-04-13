@@ -11542,7 +11542,10 @@
         "Old Road Jets": "assets/logos/upstreams/old-road-jets.webp",
         "Gastao Elias": "assets/logos/upstreams/gastao-elias.webp",
         "Newtown United": "assets/logos/upstreams/newtown-united.webp",
-        "Inter Moengotapoe": "assets/logos/upstreams/inter-moengotapoe.webp"
+        "Inter Moengotapoe": "assets/logos/upstreams/inter-moengotapoe.webp",
+        "Tractor": "assets/logos/upstreams/tractor.webp",
+        "Bolivia W": "assets/logos/upstreams/bolivia-w.webp",
+        "FMP": "assets/logos/upstreams/fmp.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
