@@ -11545,7 +11545,9 @@
         "Inter Moengotapoe": "assets/logos/upstreams/inter-moengotapoe.webp",
         "Tractor": "assets/logos/upstreams/tractor.webp",
         "Bolivia W": "assets/logos/upstreams/bolivia-w.webp",
-        "FMP": "assets/logos/upstreams/fmp.webp"
+        "FMP": "assets/logos/upstreams/fmp.webp",
+        "Armenia Women": "assets/logos/streamed/armenia-women.webp",
+        "Moldova Women": "assets/logos/streamed/moldova-women.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
