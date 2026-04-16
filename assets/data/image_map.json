@@ -11898,7 +11898,9 @@
         "Turkey W": "assets/logos/streamed/turkey-w.webp",
         "Georgia W": "assets/logos/streamed/georgia-w.webp",
         "Luxembourg W": "assets/logos/streamed/luxembourg-w.webp",
-        "Israel W": "assets/logos/streamed/israel-w.webp"
+        "Israel W": "assets/logos/streamed/israel-w.webp",
+        "Titanes Distrito Nacional": "assets/logos/upstreams/titanes-distrito-nacional.webp",
+        "Heroes de Moca": "assets/logos/upstreams/heroes-de-moca.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
