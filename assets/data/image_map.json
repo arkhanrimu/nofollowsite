@@ -11998,7 +11998,10 @@
         "MNK Crnica": "assets/logos/upstreams/mnk-crnica.webp",
         "Pula": "assets/logos/upstreams/pula.webp",
         "O\\'Connor William": "assets/logos/upstreams/oconnor-william.webp",
-        "Michael Unterbuchner": "assets/logos/upstreams/michael-unterbuchner.webp"
+        "Michael Unterbuchner": "assets/logos/upstreams/michael-unterbuchner.webp",
+        "Valmiera": "assets/logos/upstreams/valmiera.webp",
+        "Bnei Herzelia": "assets/logos/upstreams/bnei-herzelia.webp",
+        "Chicago Fire II": "assets/logos/upstreams/chicago-fire-ii.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -13502,6 +13505,7 @@
         "China - Cup FA": "assets/logos/leagues/china-cup-fa.webp",
         "Twenty20 International Women": "assets/logos/leagues/twenty20-international-women.webp",
         "German Bundesliga": "assets/logos/leagues/german-bundesliga.webp",
-        "Croatia - HMNL": "assets/logos/leagues/croatia-hmnl.webp"
+        "Croatia - HMNL": "assets/logos/leagues/croatia-hmnl.webp",
+        "Israel - Super League": "assets/logos/leagues/israel-super-league.webp"
     }
 }
