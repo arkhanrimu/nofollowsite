@@ -12030,7 +12030,10 @@
         "ZENIT": "assets/logos/upstreams/zenit.webp",
         "Lumezzane | 210 min": "assets/logos/upstreams/lumezzane-210-min.webp",
         "Gr\u010dka liga: Playoffs: Panathinaikos - Olympiacos": "assets/logos/upstreams/gr\u010dka-liga-playoffs-panathinaikos-olympiacos.webp",
-        "Al-Hussein Irbid": "assets/logos/upstreams/al-hussein-irbid.webp"
+        "Al-Hussein Irbid": "assets/logos/upstreams/al-hussein-irbid.webp",
+        "Enkoping SK": "assets/logos/upstreams/enkoping-sk.webp",
+        "Olympique Marseille": "assets/logos/upstreams/olympique-marseille.webp",
+        "Hapoel Petah Tikva": "assets/logos/upstreams/hapoel-petah-tikva.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
