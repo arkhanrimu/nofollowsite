@@ -12127,7 +12127,10 @@
         "Matteo FondriEast": "assets/logos/upstreams/matteo-fondrieast.webp",
         "Eloise Newberry": "assets/logos/upstreams/eloise-newberry.webp",
         "Xiaowei Li": "assets/logos/upstreams/xiaowei-li.webp",
-        "Yu Shan": "assets/logos/upstreams/yu-shan.webp"
+        "Yu Shan": "assets/logos/upstreams/yu-shan.webp",
+        "Yuxuan Luo": "assets/logos/upstreams/yuxuan-luo.webp",
+        "Yuyao Li": "assets/logos/upstreams/yuyao-li.webp",
+        "Chuyi Yang": "assets/logos/upstreams/chuyi-yang.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -13664,6 +13667,7 @@
         "Australia - NPL - Capital (W)": "assets/logos/leagues/australia-npl-capital-w.webp",
         "Canada Premier League": "assets/logos/leagues/canada-premier-league.webp",
         "Fiji - Premier League": "assets/logos/leagues/fiji-premier-league.webp",
-        "Gwangju, Korea Republic, Qualifying": "assets/logos/leagues/gwangju-korea-republic-qualifying.webp"
+        "Gwangju, Korea Republic, Qualifying": "assets/logos/leagues/gwangju-korea-republic-qualifying.webp",
+        "NHL, Playoffs": "assets/logos/leagues/nhl-playoffs.webp"
     }
 }
