@@ -12176,7 +12176,8 @@
         "Charles Bertimon": "assets/logos/upstreams/charles-bertimon.webp",
         "Pierre Delage": "assets/logos/upstreams/pierre-delage.webp",
         "Herbert Jody Maginley": "assets/logos/upstreams/herbert-jody-maginley.webp",
-        "Hong Yi Cody Wong": "assets/logos/upstreams/hong-yi-cody-wong.webp"
+        "Hong Yi Cody Wong": "assets/logos/upstreams/hong-yi-cody-wong.webp",
+        "Shabab Al-Ahli Dubai, AFC Champions League": "assets/logos/upstreams/shabab-al-ahli-dubai-afc-champions-league.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -13722,6 +13723,7 @@
         "Abidjan, Cote d Ivoire": "assets/logos/leagues/abidjan-cote-d-ivoire.webp",
         "Copa do Brasil": "assets/logos/leagues/copa-do-brasil.webp",
         "Turkish Cup": "assets/logos/leagues/turkish-cup.webp",
-        "Euroleague, Play-in": "assets/logos/leagues/euroleague-play-in.webp"
+        "Euroleague, Play-in": "assets/logos/leagues/euroleague-play-in.webp",
+        "AFC Champions League Elite, Knockout stage": "assets/logos/leagues/afc-champions-league-elite-knockout-stage.webp"
     }
 }
