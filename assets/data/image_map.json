@@ -12474,7 +12474,9 @@
         "Sutton Utd": "assets/logos/streamed/sutton-utd.webp",
         "Carlisle": "assets/logos/streamed/carlisle.webp",
         "York": "assets/logos/streamed/york.webp",
-        "La Fama": "assets/logos/upstreams/la-fama.webp"
+        "La Fama": "assets/logos/upstreams/la-fama.webp",
+        "Drew van Orderlain": "assets/logos/upstreams/drew-van-orderlain.webp",
+        "Timo Legout": "assets/logos/upstreams/timo-legout.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
