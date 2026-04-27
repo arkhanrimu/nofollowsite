@@ -12799,7 +12799,12 @@
         "Cherry Kim": "assets/logos/upstreams/cherry-kim.webp",
         "Sun Min Ha": "assets/logos/upstreams/sun-min-ha.webp",
         "Suha Lee": "assets/logos/upstreams/suha-lee.webp",
-        "Hyunyee Lee": "assets/logos/upstreams/hyunyee-lee.webp"
+        "Hyunyee Lee": "assets/logos/upstreams/hyunyee-lee.webp",
+        "New Zealand U20": "assets/logos/upstreams/new-zealand-u20.webp",
+        "Isaac Becroft": "assets/logos/upstreams/isaac-becroft.webp",
+        "Barney Fitzpatrick": "assets/logos/upstreams/barney-fitzpatrick.webp",
+        "Lachlan McFadzean": "assets/logos/upstreams/lachlan-mcfadzean.webp",
+        "Martina Vazquez Valles": "assets/logos/upstreams/martina-vazquez-valles.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
@@ -14417,6 +14422,7 @@
         "Mauthausen, Austria, Qualifying": "assets/logos/leagues/mauthausen-austria-qualifying.webp",
         "Latvia Virsliga": "assets/logos/leagues/latvia-virsliga.webp",
         "Saint-Malo, France, Qualifying": "assets/logos/leagues/saint-malo-france-qualifying.webp",
-        "Abidjan 2, Cote d Ivoire, Qualifying": "assets/logos/leagues/abidjan-2-cote-d-ivoire-qualifying.webp"
+        "Abidjan 2, Cote d Ivoire, Qualifying": "assets/logos/leagues/abidjan-2-cote-d-ivoire-qualifying.webp",
+        "WTA 125 - La Bisbal d'Emporda (SPA)": "assets/logos/leagues/wta-125-la-bisbal-demporda-spa.webp"
     }
 }
