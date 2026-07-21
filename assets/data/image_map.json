@@ -13614,7 +13614,10 @@
         "Rovereto": "assets/logos/streamed/rovereto.webp",
         "Pavia": "assets/logos/streamed/pavia.webp",
         "Fiorentina U20": "assets/logos/streamed/fiorentina-u20.webp",
-        "TN Tempo W": "assets/logos/streamed/tn-tempo-w.webp"
+        "TN Tempo W": "assets/logos/streamed/tn-tempo-w.webp",
+        "Podlasie Bia\u0142a Podlaska": "assets/logos/streamed/podlasie-bia\u0142a-podlaska.webp",
+        "Antigua and Barbuda": "assets/logos/streamed/antigua-and-barbuda.webp",
+        "Dons": "assets/logos/streamed/dons.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
