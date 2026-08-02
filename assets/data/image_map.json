@@ -13658,7 +13658,8 @@
         "Otago": "assets/logos/streamed/otago.webp",
         "Trent Rockets": "assets/logos/streamed/trent-rockets.webp",
         "Carl Zeiss Jena": "assets/logos/streamed/carl-zeiss-jena.webp",
-        "\u015al\u0105sk Wroc\u0142aw": "assets/logos/streamed/\u015bl\u0105sk-wroc\u0142aw.webp"
+        "\u015al\u0105sk Wroc\u0142aw": "assets/logos/streamed/\u015bl\u0105sk-wroc\u0142aw.webp",
+        "Volendam": "assets/logos/streamed/volendam.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
