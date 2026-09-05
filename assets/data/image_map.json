@@ -14009,7 +14009,11 @@
         "Mississippi State": "assets/logos/streamed/mississippi-state.webp",
         "Louisiana-Monroe": "assets/logos/streamed/louisiana-monroe.webp",
         "Georgia State": "assets/logos/streamed/georgia-state.webp",
-        "Franklin Pierce": "assets/logos/streamed/franklin-pierce.webp"
+        "Franklin Pierce": "assets/logos/streamed/franklin-pierce.webp",
+        "Hampton": "assets/logos/streamed/hampton.webp",
+        "Central Michigan": "assets/logos/streamed/central-michigan.webp",
+        "Washington State": "assets/logos/streamed/washington-state.webp",
+        "Ole Miss": "assets/logos/streamed/ole-miss.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
