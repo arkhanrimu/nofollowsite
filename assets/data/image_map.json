@@ -14059,7 +14059,9 @@
         "Arsenal U19": "assets/logos/streamed/arsenal-u19.webp",
         "Slovan Bratislava U19": "assets/logos/streamed/slovan-bratislava-u19.webp",
         "Galatasaray U18": "assets/logos/streamed/galatasaray-u18.webp",
-        "Liverpool U19": "assets/logos/streamed/liverpool-u19.webp"
+        "Liverpool U19": "assets/logos/streamed/liverpool-u19.webp",
+        "Sporting CP Youth": "assets/logos/streamed/sporting-cp-youth.webp",
+        "Galatasaray Youth": "assets/logos/streamed/galatasaray-youth.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
