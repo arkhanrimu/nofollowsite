@@ -14107,7 +14107,10 @@
         "Brown": "assets/logos/streamed/brown.webp",
         "Columbia": "assets/logos/streamed/columbia.webp",
         "St. Thomas": "assets/logos/streamed/st-thomas.webp",
-        "Delta State": "assets/logos/streamed/delta-state.webp"
+        "Delta State": "assets/logos/streamed/delta-state.webp",
+        "New Zealand Breakers": "assets/logos/streamed/new-zealand-breakers.webp",
+        "Illawarra Hawks": "assets/logos/streamed/illawarra-hawks.webp",
+        "Cairns Taipans": "assets/logos/streamed/cairns-taipans.webp"
     },
     "leagues": {
         "LaLiga 2": "assets/logos/leagues/laliga-2.webp",
